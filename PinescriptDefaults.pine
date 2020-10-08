@@ -1,0 +1,375 @@
+//PineScript Defaults on Tradingview 
+
+//Accumulation & Distrubution 
+//@version=4
+study(title="Accumulation/Distribution", shorttitle="Accum/Dist", format=format.volume, overlay=false)
+ad = cum(close==high and close==low or high==low ? 0 : ((2*close-low-high)/(high-low))*volume)
+plot(ad, title = "Accumulation/Distribution", color=color.olive)
+
+//ADX 
+//@version=4
+study("Average Directional Index", shorttitle="ADX", format=format.price, precision=2)
+adxlen = input(14, title="ADX Smoothing")
+dilen = input(14, title="DI Length")
+dirmov(len) =>
+	up = change(high)
+	down = -change(low)
+	plusDM = na(up) ? na : (up > down and up > 0 ? up : 0)
+    minusDM = na(down) ? na : (down > up and down > 0 ? down : 0)
+	truerange = rma(tr, len)
+	plus = fixnan(100 * rma(plusDM, len) / truerange)
+	minus = fixnan(100 * rma(minusDM, len) / truerange)
+	[plus, minus]
+
+adx(dilen, adxlen) =>
+	[plus, minus] = dirmov(dilen)
+	sum = plus + minus
+	adx = 100 * rma(abs(plus - minus) / (sum == 0 ? 1 : sum), adxlen)
+
+sig = adx(dilen, adxlen)
+
+plot(sig, color=color.red, title="ADX")
+
+//ATR 
+//@version=4
+study(title="Average True Range", shorttitle="ATR", overlay=false)
+
+length = input(title="Length", defval=14, minval=1)
+smoothing = input(title="Smoothing", defval="RMA", options=["RMA", "SMA", "EMA", "WMA"])
+
+ma_function(source, length) => 
+    if smoothing == "RMA"
+        rma(source, length)
+    else
+        if smoothing == "SMA"
+            sma(source, length)
+        else
+            if smoothing == "EMA"
+                ema(source, length)
+            else
+                wma(source, length)
+
+plot(ma_function(tr(true), length), title = "ATR", color=#991515, transp=0)
+
+//BB% 
+//@version=4
+study(title = "Bollinger Bands %B", shorttitle = "BB %B", format=format.price, precision=2)
+length = input(20, minval=1)
+src = input(close, title="Source")
+mult = input(2.0, minval=0.001, maxval=50)
+basis = sma(src, length)
+dev = mult * stdev(src, length)
+upper = basis + dev
+lower = basis - dev
+bbr = (src - lower)/(upper - lower)
+plot(bbr, color=color.teal)
+band1 = hline(1, color=color.gray, linestyle=hline.style_dashed)
+band0 = hline(0, color=color.gray, linestyle=hline.style_dashed)
+fill(band1, band0, color=color.teal)
+
+//HULL MA 
+//@version=4
+study(title = "Hull MA", shorttitle="HMA", overlay = true)
+length = input(9, minval=1)
+src = input(close, title="Source")
+hullma = wma(2*wma(src, length/2)-wma(src, length), round(sqrt(length)))
+plot(hullma)
+
+//CONDITIONAL EXPRESSIONS 
+
+//@version=4
+study(title="Conditional Expressions")
+
+// Plot will be green/red on DWM charts and yellow/blue on intraday
+c = timeframe.isdwm ? close >= open ? color.green : color.red : close >= open ? color.yellow : color.blue
+plot(ohlc4, color=c)
+
+// Another example of conditional expr:
+c2 = timeframe.isintraday ? color.red : timeframe.isdaily ? color.green : timeframe.isweekly ? color.blue : color.gray
+plot(hl2, color=c2)
+
+//CVI 
+//@version=4
+study("Cumulative Volume Index", "CVI", format=format.volume)
+NYSE = "NYSE"
+NASDAQ = "NASDAQ"
+AMEX = "AMEX"
+ARCX = "ARCX"
+US = "US Total"
+DJ = "DJ"
+exch = input(NYSE, type = input.string, title="Exchange", 
+ options=[NYSE, NASDAQ, AMEX, ARCX, US, DJ])
+adv_ticker =
+   exch == DJ ? "UPVOL.DJ" : 
+   exch == US ? "UPVOL.US" :
+   exch == ARCX ? "UPVOL.AX" : 
+   exch == AMEX ? "UPVOL.AM" : 
+   exch == NASDAQ ? "UPVOL.NQ" :
+   "UPVOL.NY"
+dec_ticker =
+   exch == DJ ? "DNVOL.DJ" :
+   exch == US ? "DNVOL.US" :
+   exch == ARCX ? "DNVOL.AX" :
+   exch == AMEX ? "DNVOL.AM" :
+   exch == NASDAQ ? "DNVOL.NQ" :
+   "DNVOL.NY"
+adv = security(adv_ticker, timeframe.period, close)
+dec = security(dec_ticker, timeframe.period, close)
+cvi = cum(adv - dec)
+plot(cvi)
+
+
+//ICHIMOKU 
+
+//@version=4
+study(title="Ichimoku Cloud", shorttitle="Ichimoku", overlay=true)
+
+conversionPeriods = input(9, minval=1, title="Conversion Line Periods"),
+basePeriods = input(26, minval=1, title="Base Line Periods")
+laggingSpan2Periods = input(52, minval=1, title="Lagging Span 2 Periods"),
+displacement = input(26, minval=1, title="Displacement")
+
+donchian(len) => avg(lowest(len), highest(len))
+
+conversionLine = donchian(conversionPeriods)
+baseLine = donchian(basePeriods)
+leadLine1 = avg(conversionLine, baseLine)
+leadLine2 = donchian(laggingSpan2Periods)
+
+plot(conversionLine, color=#0496ff, title="Conversion Line")
+plot(baseLine, color=#991515, title="Base Line")
+plot(close, offset = -displacement + 1, color=#459915, title="Lagging Span")
+
+p1 = plot(leadLine1, offset = displacement - 1, color=color.green,
+ title="Lead 1")
+p2 = plot(leadLine2, offset = displacement - 1, color=color.red, 
+ title="Lead 2")
+fill(p1, p2, color = leadLine1 > leadLine2 ? color.green : color.red)
+
+
+//ZIGZAG 
+//@version=4
+study("Zig Zag", overlay=true)
+
+dev_threshold = input(title="Deviation (%)", type=input.float, defval=5, minval=1, maxval=100)
+depth = input(title="Depth", type=input.integer, defval=10, minval=1)
+
+pivots(src, length, isHigh) =>
+    p = nz(src[length])
+
+    if length == 0
+        [bar_index, p]
+    else
+        isFound = true
+        for i = 0 to length - 1
+            if isHigh and src[i] > p
+                isFound := false
+            if not isHigh and src[i] < p
+                isFound := false
+        
+        for i = length + 1 to 2 * length
+            if isHigh and src[i] >= p
+                isFound := false
+            if not isHigh and src[i] <= p
+                isFound := false
+    
+        if isFound and length * 2 <= bar_index
+            [bar_index[length], p]
+        else
+            [int(na), float(na)]
+
+[iH, pH] = pivots(high, floor(depth / 2), true)
+[iL, pL] = pivots(low, floor(depth / 2), false)
+
+calc_dev(base_price, price) =>
+    100 * (price - base_price) / base_price
+
+var line lineLast = na
+var int iLast = 0
+var float pLast = 0
+var bool isHighLast = true // otherwise the last pivot is a low pivot
+var int linesCount = 0
+
+pivotFound(dev, isHigh, index, price) =>
+    if isHighLast == isHigh and not na(lineLast)
+        // same direction
+        if isHighLast ? price > pLast : price < pLast
+            if linesCount <= 1
+                line.set_xy1(lineLast, index, price)
+            line.set_xy2(lineLast, index, price)
+            [lineLast, isHighLast, false]
+        else
+            [line(na), bool(na), false]
+    else // reverse the direction (or create the very first line)
+        if na(lineLast)
+            id = line.new(index, price, index, price, color=color.red, width=2)
+            [id, isHigh, true]
+        else
+            // price move is significant
+            if abs(dev) >= dev_threshold
+                id = line.new(iLast, pLast, index, price, color=color.red, width=2)
+                [id, isHigh, true]
+            else
+                [line(na), bool(na), false]
+
+if not na(iH) and not na(iL) and iH == iL
+    dev1 = calc_dev(pLast, pH)
+    [id2, isHigh2, isNew2] = pivotFound(dev1, true, iH, pH)
+    if isNew2
+        linesCount := linesCount + 1
+    if not na(id2)
+        lineLast := id2
+        isHighLast := isHigh2
+        iLast := iH
+        pLast := pH
+    
+    dev2 = calc_dev(pLast, pL)
+    [id1, isHigh1, isNew1] = pivotFound(dev2, false, iL, pL)
+    if isNew1
+        linesCount := linesCount + 1
+    if not na(id1)
+        lineLast := id1
+        isHighLast := isHigh1
+        iLast := iL
+        pLast := pL
+    
+else
+    if not na(iH)
+        dev1 = calc_dev(pLast, pH)
+        [id, isHigh, isNew] = pivotFound(dev1, true, iH, pH)
+        if isNew
+            linesCount := linesCount + 1
+        if not na(id)
+            lineLast := id
+            isHighLast := isHigh
+            iLast := iH
+            pLast := pH
+    else
+        if not na(iL)
+            dev2 = calc_dev(pLast, pL)
+            [id, isHigh, isNew] = pivotFound(dev2, false, iL, pL)
+            if isNew
+                linesCount := linesCount + 1
+            if not na(id)
+                lineLast := id
+                isHighLast := isHigh
+                iLast := iL
+                pLast := pL
+
+//LinReg 
+//@version=4
+study("Linear Regression", shorttitle="LinReg", overlay=true)
+
+upperMult = input(title="Upper Deviation", defval=2)
+lowerMult = input(title="Lower Deviation", defval=-2)
+
+useUpperDev = input(title="Use Upper Deviation", defval=true)
+useLowerDev = input(title="Use Lower Deviation", defval=true)
+showPearson = input(title="Show Pearson's R", defval=true)
+extendLines = input(title="Extend Lines", defval=false)
+
+len = input(title="Count", defval=100)
+src = input(title="Source", defval=close)
+
+extend = extendLines ? extend.right : extend.none
+
+calcSlope(src, len) =>
+    if not barstate.islast or len <= 1
+        [float(na), float(na), float(na)]
+    else
+        sumX = 0.0
+        sumY = 0.0
+        sumXSqr = 0.0
+        sumXY = 0.0
+        for i = 0 to len - 1
+            val = src[i]
+            per = i + 1.0
+            sumX := sumX + per
+            sumY := sumY + val
+            sumXSqr := sumXSqr + per * per
+            sumXY := sumXY + val * per
+        slope = (len * sumXY - sumX * sumY) / (len * sumXSqr - sumX * sumX)
+        average = sumY / len
+        intercept = average - slope * sumX / len + slope
+        [slope, average, intercept]
+
+[s, a, i] = calcSlope(src, len)
+
+startPrice = i + s * (len - 1)
+endPrice = i
+var line baseLine = na
+
+if na(baseLine) and not na(startPrice)
+    baseLine := line.new(bar_index - len + 1, startPrice, bar_index, endPrice, width=1, extend=extend, color=color.red)
+else
+    line.set_xy1(baseLine, bar_index - len + 1, startPrice)
+    line.set_xy2(baseLine, bar_index, endPrice)
+    na
+
+calcDev(src, len, slope, average, intercept) =>
+    upDev = 0.0
+    dnDev = 0.0
+    stdDevAcc = 0.0
+    dsxx = 0.0
+    dsyy = 0.0
+    dsxy = 0.0
+    
+    periods = len - 1
+
+    daY = intercept + (slope * periods) / 2
+    val = intercept
+    
+    for i = 0 to periods
+        price = high[i] - val
+        if (price > upDev)
+            upDev := price
+
+        price := val - low[i]
+        if (price > dnDev)
+            dnDev := price
+
+        price := src[i]
+        dxt = price - average
+        dyt = val - daY
+        
+        price := price - val
+        stdDevAcc := stdDevAcc + price * price
+        dsxx := dsxx + dxt * dxt
+        dsyy := dsyy + dyt * dyt
+        dsxy := dsxy + dxt * dyt
+        val := val + slope
+    
+    stdDev = sqrt(stdDevAcc / (periods == 0 ? 1 : periods))
+    pearsonR = dsxx == 0 or dsyy == 0 ? 0 : dsxy / sqrt(dsxx * dsyy)
+    [stdDev, pearsonR, upDev, dnDev]
+
+[stdDev, pearsonR, upDev, dnDev] = calcDev(src, len, s, a, i)
+
+upperStartPrice = startPrice + (useUpperDev ? upperMult * stdDev : upDev)
+upperEndPrice = endPrice + (useUpperDev ? upperMult * stdDev : upDev)
+var line upper = na
+
+lowerStartPrice = startPrice + (useLowerDev ? lowerMult * stdDev : -dnDev)
+lowerEndPrice = endPrice + (useLowerDev ? lowerMult * stdDev : -dnDev)
+var line lower = na
+
+if na(upper) and not na(upperStartPrice)
+    upper := line.new(bar_index - len + 1, upperStartPrice, bar_index, upperEndPrice, width=1, extend=extend, color=#0000ff)
+else
+    line.set_xy1(upper, bar_index - len + 1, upperStartPrice)
+    line.set_xy2(upper, bar_index, upperEndPrice)
+    na
+
+if na(lower) and not na(lowerStartPrice)
+    lower := line.new(bar_index - len + 1, lowerStartPrice, bar_index, lowerEndPrice, width=1, extend=extend, color=#0000ff)
+else
+    line.set_xy1(lower, bar_index - len + 1, lowerStartPrice)
+    line.set_xy2(lower, bar_index, lowerEndPrice)
+    na
+
+// Pearson's R
+var label r = na
+transparent = color.new(color.white, 100)
+label.delete(r[1])
+if showPearson and not na(pearsonR)
+    r := label.new(bar_index - len + 1, lowerStartPrice, tostring(pearsonR, "#.################"), color=transparent, textcolor=#0000ff, size=size.normal, style=label.style_labelup)
