@@ -2,8 +2,6 @@
 ## Comprehensive product manual and documentation for the MarketGod Indicator accessed on <a href="tradingview.com">Tradingview.com</a>
 
 ---
-description: User Questions and Typical Scenarios we have run into
----
 
 # Frequently Asked Questions
 
