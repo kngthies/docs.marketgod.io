@@ -1,117 +1,90 @@
 # MarketGod for Tradingview 
 ## Comprehensive product manual and documentation for the MarketGod Indicator accessed on <a href="tradingview.com">Tradingview.com</a>
+--
+# Introduction
+### Hello and welcome to MarketGod Trading
 
-## Introduction
+Regardless of your background in trading/finance, and regardless of where you are from, thank you for taking the time to review these documents, and educate yourself on what has really become the core of my livlihood over the course of several years. 
+Whether you are new to the MarketGod Indicator or a seasoned veteran, we appreciate your presence and hope to maintain your trading success, and ideally add value to your trades prior to making them. If you've just purchased access to MarketGod for Tradingview, we will get you added shortly. This guide aims to Establish a framework / fundamental understanding of what our tools do, so they can utilize and apply them best. In addition,If you're just getting started and don't know how to add MarketGod in the Tradingview Public Library, we recommend you start in the [tutorials](https://docs.marketgod.io/guides/guide/tutorials#how-to-find-marketgod) section for assistance.
 
-**Hello and welcome to MarketGod Trading.**
-
-Whether you are new to the toolset or a seasoned veteran, we appreciate your presence and hope to maintain your trading success, and ideally add value to your trades prior to making them. If you've just purchased access to MarketGod for Tradingview, we will get you added shortly. This guide aims to Establish a framework / fundamental understanding of what our tools do, so they can utilize and apply them best. In addition,If you're just getting started and don't know how to add MarketGod in the Tradingview Public Library, we recommend you start in the [tutorials](https://websites.godaddy.com/tutorials) section for assistance.
-
-### **Recommended First Steps**
-
+### Recommended First Steps
 Once your have purchased access to MarketGod, Follow us on our social platforms. This is how we keep users up to date on the latest updates and changes.
+Secondly, add the following Email Address to your Contacts + Whitelisted Domains "Eric Thies, admin@marketgod.io". This is your main point of contact for administrative and support related issues.
 
-1. Secondly, add the following Email Address to your Contacts + Whitelisted Domains "Eric Thies, admin@marketgod.io".
-   * This is your main point of contact for administrative and support related issues.
-
-**Watch and review our** [**tutorials**](http://marketgod.io/tutorials)**, and other resources provided on this site. It is ever changing and we update it frequently.**
+> Watch and review our** [**tutorials**](https://docs.marketgod.io/guides/guide/tutorials#how-to-find-marketgod)**, and other resources provided on this site. It is ever changing and we update it frequently.
 
 ## User Requirements
-
 Before we can add you to MarketGod for Tradingview on Tradingview.com, we require the following from all our users.
 
-### **How To Start Using MarketGod**
+## Tutorial: Start using MarketGod
+First, you need to [**Create an account on Tradingview.com**](https://tradingview.com/)
 
-### \*\*\*\*[**Create an account on Tradingview.com**](https://marketgodx.com/tradingview%20)
+> To maximize your experience with MarketGod, we recommend purchasing their Pro or Premium subscription. 
 
-#### _---- To maximize your experience with MarketGod, we recommend purchasing their Pro or Premium subscription ------_ 
+Once the account has been made, you will need to purchase our tool, which is available here. [**Purchase MarketGod for Tradingview**](https://checkout.marketgod.io/)
 
-### \_\_[**Purchase MarketGod for Tradingview**](https://checkout.marketgod.io/)\*\*\*\*
+> Included with MarketGod Purchase
+> - [MarketGod for Tradingview [study]](https://www.tradingview.com/script/incLctTa-MarketGod-for-Tradingview-study/)
+> - [MarketGod for Tradingview [strategy]] (https://www.tradingview.com/script/incLctTa-MarketGod-for-Tradingview-strategy) 
 
-#### _includes Chart Study & Accompanying Strategy \(strategy used for back-testing & automation_
+If hesitant to purchase, we are happy to answer any questions or address any concerns <a href="mailto:admin@marketgod.io">via email</a>
 
-{% embed url="https://marketgod.myshopify.com/" caption="Purchase MarketGod for Tradingview By Following this link to Checkout" %}
+# New User Registration
 
-## New User Registration
-
-![Above: After your transaction finalizes and purchase is complete, you are re-directed to our user registration process to start the onboarding procedure ](../../.gitbook/assets/screen-shot-2020-08-21-at-5.41.54-pm.png)
-
-**Once purchased, users are directed to a registration process that is required for all users to complete.**
+### Once purchased, users are directed to a registration process that is required for all users to complete
 
 Upon completion of payment, users complete a registration process to provide us the required details we need to add you to Tradingview. This registration process will start in one of these two methods
-
 Most commonly, users are redirected to our registration straight from the payment completion
-
 In the event you are not redirected to our registration, we also email the link to the registration form, which is delivered after successful payments are received.
 
 When providing the information requested on the form, please be sure to double check your Tradingview Username. The management system we have available to us from Tradingview is case-sensitive, making it that much more important you verify your username prior to submitting the form
 
-### **How to Find Your Tradingview Username**
-
+## How to Find Your Tradingview Username
 1. Go to [https://www.tradingview.com/](https://www.tradingview.com/)
 2. Log-In, if you haven't already
 3. Go to [https://www.tradingview.com/u/](https://www.tradingview.com/u/)
 4. The user name that appears on the profile in front of you is your username
 
-![ABOVE: Finding your Tradingview Username. ](../../.gitbook/assets/screen-shot-2020-09-30-at-2.52.57-pm.png)
 
-_Tradingview Usernames for a given user are located on_ [_tradingview.com/u_](http://tradingview.com/u/)
-
-### MarketGod Indicator Access Confirmation
-
+## MarketGod Indicator Access Confirmation
 **Your access to MarketGod will be confirmed via notification from Tradingview.com. Below, we walk through each step that needs to be taken to find the notification.** 
 
-1. **Confirmation from** [**Tradingview**](https://marketgodx.com/tradingview)\*\*\*\*
-   * _Tradingview automatically notifies any user of any private indicator that they have been added to a given permission list. In the event our notification is delayed or does not send, simply refresh your browser page and check this tab, highlighted below_
+1. After submitting the user registration form, please allow up to 6 hours to be on the tool. We have an automated system and expect your permissions to be granted within 5-10 minutes of submitting, but we ask for the longer period of time in the event the system has an error or there is a reason for the change. 
 
-![Above: Users can see an alert from TradingView when permissions are granted for any private indicator they have access too \(IE MarketGod\)](../../.gitbook/assets/9.png)
+2. You will know that you have been granted access to the MarketGod indicator by two methods: Tradingview will alert you in your sidebar account notifications. You will also see a new section of "Invite-Only" scripts appear in your public indicator library, once you refresh and update the cached info on your browser. 
 
-Getting Started _Finding MarketGod for Tradingview is simple for our users on Tradingview. Follow the guide below_.
+>> PLEASE NOTE THAT THE RED LOCKS NEXT TO THE INDICATOR ARE PRESENT REGARDLESS IF PERMISSION IS GRANTED OR NOT. They change to green after you have successfully ADDED the tool to your chart. 
 
-### **How To Find MarketGod**
+>>> If you find yourself waiting multiple hours without gaining access to the indicator,** [**please email our team**](mailto:admin@marketgod.io) **with a copy of your receipt and we will plan accordingly from there! 
 
-{% embed url="https://imgur.com/gallery/71UMCWT" %}
+### How To Find the MarketGod Indicator and Add to Your Chart on Tradingview 
 
-\*\*\*\*
+GIF Tutorial: https://imgur.com/gallery/71UMCWT
 
-\*\*\*\*[**Login to your account on Tradingview**](https://marketgodx.com/tradingview)
+1. [**Login to your account on Tradingview**](https://tradingview.com)
+2. From the homepage, click on ‘Chart’ in the top navigation bar.Select “Indicators” on the top-center-middle panel:
+3. In the indicator library, you will notice your tradingview account will now have a "invite only" section on the left-hand side. The indicator and strategy will both be available to you, and will look as the photo below 
 
-1. From the homepage, click on ‘Chart’ in the top navigation bar.Select “Indicators” on the top-center-middle panel:
-2. In the indicator library, you will notice your tradingview account will now have a "invite only" section on the left-hand side. The indicator and strategy will both be available to you, and will look as the photo below 
+> **Be Sure to choose the MarketGod for Tradingview \[study\]  published by user MarketGodx. 
+>> TVMARKETGOD is a previous account we needed to reset due to constraints on automated user adds we wanted to sidestep.
 
-![Above: Choose the Invite only tab in the tradingview indicator library.](../../.gitbook/assets/screen-shot-2020-09-30-at-2.57.34-pm.png)
+By now, you should have successfully added the MarketGod Indicator to your charts on Tradingview.com. 
 
-{% hint style="warning" %}
-**Be Sure to choose the MarketGod for Tradingview \[study\]  published by user MarketGodx. TVMARKETGOD is a previous account we needed to reset due to constraints on automated user adds we wanted to sidestep.** 
-{% endhint %}
+For additional assistance before continuing, please email <a href="mailto:admin@marketgod.io">our team</a>
 
-**Once you have added MarketGod to your charts, you will want to establish alerts to maximize your trading opportunities. Follow these steps to set them correctly**
+# Using the MarketGod Indicator 
+## Recommendations for using the MarketGod Indicator and how to maximize your study & strategy effectively
+This section will detail the most effective way we are aware of, to maximize the efficiency and succcess of the MarketGod algorithm. 
+ **Covered in this section** 
+ 1. Tutorials: 
+  - Setting Alerts
+  - Removing NA Labeling from Left Corner of screen
+  - More 
+ 2. Customizing MarketGod Visuals 
+ 3. Understanding how the alerts are sent 
 
-We've recently upgraded our onboarding process and expect around a 5-10 minutes between users submitting registration to our system syncing and adding their permissions on our indicators. 
-
-**If you find yourself waiting multiple hours without gaining access to the indicator,** [**please email our team**](mailto:admin@marketgod.io) **with a copy of your receipt and we will plan accordingly from there!** 
-
-{% hint style="info" %}
-**While many of our users simply wait for the "locks" next to the name to turn green, many are not aware the locks will remain red until you add the indicator and populate on your charts! Make sure to double check for this!** 
-{% endhint %}
-
-Once added to our permissions list, you will see a notification on your tradingview alert center. Confirmation from [Tradingview](https://marketgodx.com/tradingview) in your notification center. Make sure to refresh your entire browser prior to searching 'MarketGod' in the public library.  
-
-1. * _Tradingview automatically notifies all users of any private indicator that they have been added to a given permission list. In the event our notification is delayed or does not send, simply refresh your browser page and check this tab, highlighted below_
-
-![Above: Users can see an alert from TradingView when permissions are granted for any private indicator they have access too \(IE MarketGod\)](../../.gitbook/assets/9.png)
-
-Getting Started _Finding MarketGod for Tradingview is simple for our users on Tradingview. Follow the guide below_.
-
-
-
-
-
-### **How To Set Alerts**
-
-{% embed url="https://i.imgur.com/V03AD6H.gifv" %}
-
-\*\*\*\*
+## Tutorial: Setting Alerts in Tradingview
+GIF Tutorial: https://i.imgur.com/V03AD6H.gifv
 
 1. From your [Tradingview chart](https://marketgodx.com/tradingview), navigate to the market or ticker and timeframes you'd like to set an alert for
 2. From the main chart, click on the alerts icon in the right panel and then click the plus \(+\) to open the ‘Set Alert’ menu
@@ -121,19 +94,14 @@ Getting Started _Finding MarketGod for Tradingview is simple for our users on Tr
 6. This option is only available through [tradingview's premium plans](https://marketgodx.com/tradingview)
 
 ### Removing NA Values 
+GIF Tutorial: https://i.imgur.com/73xGnNs.gifv
 
-{% embed url="https://i.imgur.com/73xGnNs.gifv" caption="Removing NA Values from Tradingview Charts " %}
-
-
-
-## Customization
-
+## Customization and Personalized Appearances
 MarketGod Users can adjust the overall appearance of the indicator as they use it. For a full list on why can be customized on tradingview.com in entirety, please see the references to tradingview.com, and note this applies to every indicator in strategy that users can add from the public library
 
 This section is related to the visual appearance of MarketGod. If you are looking for adjustments and details on how to use the V7 and MarketGodx noise filter.
 
-### **Available Customizations**
-
+### Available Customizations
 * MarketGod Signal Colors
 * MarketGod Signal Type
 * MarketGod Alert Text
@@ -142,60 +110,46 @@ This section is related to the visual appearance of MarketGod. If you are lookin
 * [Tradingview Scales](https://marketgodx.com/tradingview)
 * Tradingview Alert Text
 
-#### For additional customization's to your chart, add 'MarketGod Visuals' from the public library
+``` 
+For additional customization's to your chart, add 'MarketGod Visuals' from the public library
+```` 
+GIF Tutorial: https://marketgodx.com/free-visual-add-on
 
-{% embed url="https://marketgodx.com/free-visual-add-on" %}
+>> All aspects of your chart can be customized on the tradingview platform. Do this, by going to the "chart settings" tab/settings pin wheel on the bottom right corner of screen. 
+--
+# General Suggested Uses 
 
-{% hint style="info" %}
-All aspects of your chart can be customized on [tradingview](https://marketgodx.com/tradingview) by going to the "chart settings" tab/settings pin wheel on the bottom right corner of screen. 
-{% endhint %}
+## Which Timeframes to use MarketGod
+MarketGod is designed to work across **every** timeframe on tradingview.com - that said, MarketGod is the most effective on the 1h, 4h, 1D timeframes. Other frames include (but are not limited to) the 3D, 1W, 2W & 1M timeframes depending on the traders preference. 
 
-![Available Customization&apos;s to MarketGodx2 ](../../.gitbook/assets/the-locks-do-not-need-to-be-green-they-turn-from-red-to-green-after-you-have-been-added-to-permissions-list-and-added-it-to-your-chart-1-.png)
+## What Markets to Trade Using MarketGod
+All Markets avialable on Tradingview.com 
 
-![Label types and color Adjustments](../../.gitbook/assets/1.png)
+*Know that I built the tools primarily on Bitcoin vs. USD, because that's what I personally trade. That said, it DOES work on everything from equities, commodities, precious metals, indexes, funds, etc.*
 
-
-
-## General Suggested Uses 
-
-#### MarketGod Can Be Applied To Every Market And Chart Offered On [Tradingview.com](https://marketgodx.com/tradingview)
-
-Know that I built the tools primarily on Bitcoin vs. USD, because that's what I personally trade. That said, it DOES work on everything from equities, commodities, precious metals, indexes, funds, etc.
-
-#### MarketGod can be applied to any time-frame of chart
-
-* However we recommend 30m, 1h, 4h, 6h, 1D, 3D, 1W, 2W & 1M charts
-
-#### How to Proceed When a Buy or Sell Signal Appears
-
+## How to Proceed When a Buy or Sell Signal Appears
 When following an alert you've received from one of our indicators, please ensure to verify its validity by making note of the environment the alert came from. 
+> * _Is the market volatile historically?_ 
+> * _How long ago did the alert fire?_ 
+> * _are we near the higher range of a trading chart and in new territory?_ 
+> * _What time-frame did the alert fire on?_ 
 
-* _Is the market volatile historically?_ 
-* _How long ago did the alert fire?_ 
-* _are we near the higher range of a trading chart and in new territory?_ 
-* _What time-frame did the alert fire on?_ 
+These are questions you need to be asking yourself prior to making an entry or exit into a position.
 
-**These are questions you need to be asking yourself prior to making an entry or exit into a position.**
-
-{% hint style="success" %}
-**MarketGod Trading has issued multiple versions of the MarketGod Indicator. They are mostly similar in the process required once an alert is painted on the chart.**
-{% endhint %}
-
-> " Simply buying and selling whenever the 5-minute MarketGod alert fires will likely put you in the negative side of things" 
->
-> -Eric Thies, MarketGod Author
+> MarketGod Trading has issued multiple versions of the MarketGod Indicator. They are mostly similar in the process required once an alert is painted on the chart.
+>> "Simply buying and selling whenever the 5-minute MarketGod alert fires will likely put you in the negative side of things" 
+>>> Eric Thies, MarketGod Author
 
 First off, know that these guidelines for steps taken after receiving an alert will absolutely differ person to person, and that we've designed this to be an add-on to confirm your already established trading process. Simply buying and selling whenever the 5-minute MarketGod alert fires will likely put you in the negative side of things for two reasons. 
 
 1. Increased exposure to market volatility over shorter period of time 
 2. Increased fees on the market you are trading. 1% over 100,000 trades add up quickly. 
 
-**That said, following these outlined steps will likely end closer to positive with profits.**
+#### That said, following these outlined steps will likely end closer to positive with profits 
+*Choose your preferred Market to trade. I use Bitcoin-USD but any you prefer is okay.
+Once MarketGod is added to your charts, which we discussed above, we also recommend you add whichever indicators are preferred in your normal trading routine.*
 
-* Choose your preferred Market to trade. I use Bitcoin-USD but any you prefer is okay.
-
-Once MarketGod is added to your charts, which we discussed above, we also recommend you add whichever indicators are preferred in your normal trading routine. For us, that includes
-
+### For us, that includes
 * [RSI Divergence](https://www.tradingview.com/script/CaMohiJM-RSI-Divergence-Pine-v4/)
 * [KDJ Indicator](https://www.tradingview.com/script/cTQfwzek-KDJ-Indicator-Pine-v4-KingThies/)
 * [Bollinger Bands](https://www.tradingview.com/scripts/bollingerbands/)
@@ -208,7 +162,6 @@ Once MarketGod is added to your charts, which we discussed above, we also recomm
 4. Make trade 
 
 ## Suggested Uses By Indicator
-
 With multiple releases over multiple periods of time, our indicator has several hundred users who may prefer the earlier releases, which include MarketGod v5, MarketGod v6 and MarketGod v7. These are referred to as our legacy tools, and everybody who purchases MarketGod for [Tradingview](https://marketgodx.com/tradingview) has access to them all, along with our accompanying back-test. For new users, we recommend MarketGodx, the primary indicator we promote and have recently upgraded to MarketGodx²
 
 * [MarketGod v5](https://marketgodx.com/marketgod-v5-study)
@@ -219,39 +172,34 @@ With multiple releases over multiple periods of time, our indicator has several 
 When trading using the indicator, any input can be used. In the past, we recommended Heikin Ashi candles, although this was solely aesthetic and not functionally significant.
 
 That said, when trading using the back-test, Tradingview highly recommends to use the normal OHLC format as it will be the most accurate for trading in reality.
-
 * [Read this Pinecoders post on the OHLC input when back-testing on TV](https://www.tradingview.com/script/q9laJNG9-Backtesting-on-Non-Standard-Charts-Caution-PineCoders-FAQ/).
 
 While traders can use any they prefer and MarketGod works on all, we recommend the following timeframes for our indicators in order to receive the best results
-
 If you see alerts blinking - it means that the signal is potentially going to fire WHEN THE PERIOD CLOSES FOR CONFIRMATION. Anyone who asks about this needs to understand that the data is in real-time. This means on lower timeframes, you're going to see periods that are open, which price is teetering on the criteria we have set. Rule of thumb: when you see it happening, its irrelevant until the candle closes.
 
 Next, one of the most important concepts to know when trading with MarketGod is that it is local to a specific timeframe, but an alert that fires on a timeframe above your current frame, automatically over-rules your lower time-frame event. This is a key component to succeeding with our tools, as the Macro frame holds the trend you'd like to be a part of.
 
-* Ex\) the 4hr buy signal has just appeared. Although yesterday, a sell signal was confirmed on the 1D chart of the same market …. The trader now needs to know that the 4h buy is now almost irrelevant or potentially should be ignored.
+*Ex\) the 4hr buy signal has just appeared. Although yesterday, a sell signal was confirmed on the 1D chart of the same market …. The trader now needs to know that the 4h buy is now almost irrelevant or potentially should be ignored.*
 
 Ultimately, we can only do our best to set you up for success and we hope using this tool will get you there and build the confidence it has from us.
 
-### MarketGod v5
-
+## MarketGod v5
 For traders who prefer frequent trades and alerts for their given market of preference. MarketGod v5 consists of several technical components and is relatively simple in its criteria, in order to maximize the frequency of the signals given. Note that MarketGod v5 is formerly MarketGod v5.3, which was released on [Tradingview](https://marketgodx.com/tradingview) in early 2019. One downfall of it is the inability to manage chop effectively. This causes more false positives in the alerts where there is no change or a quick change to the reverse.
 
-* Any timeframe means any timeframe. Choose your preference
-* The higher the timeframe, the stronger the alert. If the weekly candle says 'Sell' and your Daily candle says 'Buy', Buy with high caution, as the weekly will ultimately overrule the signals of a lower frame.
-* Wait for the candle to close before considering the alert as true. Especially applies to the low time frames where the technicals are in a tight range and hard to determine in real time. Wait until the confirmation of the alert at close of the period. Be aware however, the higher the timeframe, the higher the seriousness and certainty of the alert. Ex\) If the monthly candle flashes a signal, it's probably correct, but wait to be sure.
-* Heikin ashi candles or normal candles are okay for the indicator. For the backtesting, always use real candles, not Heikin Ashi. [Read why we recommend normal candles for backtesting](https://www.tradingview.com/script/q9laJNG9-Backtesting-on-Non-Standard-Charts-Caution-PineCoders-FAQ/).
+- Any timeframe means any timeframe. Choose your preference
+- The higher the timeframe, the stronger the alert. If the weekly candle says 'Sell' and your Daily candle says 'Buy', Buy with high caution, as the weekly will ultimately overrule the signals of a lower frame.
+- Wait for the candle to close before considering the alert as true. Especially applies to the low time frames where the technicals are in a tight range and hard to determine in real time. Wait until the confirmation of the alert at close of the period. Be aware however, the higher the timeframe, the higher the seriousness and certainty of the alert. Ex\) If the monthly candle flashes a signal, it's probably correct, but wait to be sure.
+- Heikin ashi candles or normal candles are okay for the indicator. For the backtesting, always use real candles, not Heikin Ashi. 
+- > [Read why we recommend normal candles for backtesting](https://www.tradingview.com/script/q9laJNG9-Backtesting-on-Non-Standard-Charts-Caution-PineCoders-FAQ/).
 
-### MarketGod v6
-
+## MarketGod v6
 Our initial privately offered indicator that built on the success of the once-open accessed MarketGod v5. Like its predecessor, MarketGod v6 is frequent with its alerts, and offers users reliable alerts that can be added to any Market. These alerts are best used on 1h+ TF and above, ranging up to the 1M time frame \(monthly = most accurate of all\) Rules of thumb for MarketGod v6
-
 * Any timeframe means any time frame. Choose your preference
 * The higher the time frame, the stronger the alert. If the weekly candle says 'Sell' and your Daily candle says 'Buy', Buy with high caution, as the weekly will ultimately overrule the signals of a lower frame.
 * Wait for the candle to close before considering the alert as true. Especially applies to the low time frames where the technicals are in a tight range and hard to determine in real time. Wait until the confirmation of the alert at close of the period. Be aware however, the higher the timeframe, the higher the seriousness and certainty of the alert. Ex\) If the monthly candle flashes a signal, it's probably correct, but wait to be sure.
 * Heikin ashi candles or normal candles are okay for the indicator. For the backtesting, always use real candles, not Heikin Ashi. [Read why we recommend normal candles for backtesting](https://www.tradingview.com/script/q9laJNG9-Backtesting-on-Non-Standard-Charts-Caution-PineCoders-FAQ/).
 
-### MarketGod v7
-
+## MarketGod v7
 * Our long-time favorite for users around the globe. MarketGod v7 offers consistent, reliable results that users can use in any market on any time-frame. Rules of thumb for MarketGod v7
 * Any time-frame means any time frame. Choose your preference
 * The higher the time frame, the stronger the alert. If the weekly candle says 'Sell' and your Daily candle says 'Buy', Buy with high caution, as the weekly will ultimately overrule the signals of a lower frame.
@@ -261,23 +209,16 @@ Our initial privately offered indicator that built on the success of the once-op
 * Heikin ashi candles or normal candles are okay for the indicator. For the back testing, always use real candles, not Heikin Ashi. [Read why we recommend normal candles for back-testin](https://www.tradingview.com/script/q9laJNG9-Backtesting-on-Non-Standard-Charts-Caution-PineCoders-FAQ/)g
 
 #### MarketGod v7 Power Filter
-
 **The power filter itself is an EMA length that price is required to crossover as confirmation for the given period. This means the lower you set it, the more frequent the alerts and more chop there is involved. The higher the number, the less alerts shown**
 
-### MarketGodx²
-
-**MarketGodx for Tradingview**  
-_Version = MarketGodx²_
-
-{% embed url="https://youtu.be/9QxqPnD2NoM" caption="How to add MarketGodx to your Tradingview Charts" %}
+## MarketGodx²
 
   
 **Indicator Description**  
 MarketGodx weighs the probability of a given scenario and the outcome associated to prior events before sequentially weighing the [impact ](https://www.tradingview.com/symbols/SET-IMPACT/)of a probable move by the significance of the timeframe and its corresponding close sequence relative to other TFs, The indicator combines several components of classical [technical analysis](https://www.tradingview.com/scripts/technicalanalysis/) and then provides a Buy or Sell alert to traders, which is then acted upon by the user. There are modifications made to alerts to manipulate them in the alternating appearance as the visual above shows.  
 MarketGod can be applied to any market, with any time-frame associated to it. The signals relay the alert at the close of the period, and the painted alert is then available to users to see on the chart or even set notifications for via tradingview's alert system. We recommend that users implement marketgod on their preferred time frames for trading, which for us is the 1h, 4h, 6h, 1D and above TFs.  
   
-**Indicator Components**
-
+### MarketGod Components
 * Gann Trend Analysis
 * Stochastic K
 * Stochastic D
@@ -291,8 +232,7 @@ MarketGod can be applied to any market, with any time-frame associated to it. Th
 * MarketGod [EMA](https://www.tradingview.com/scripts/ema/) , [WMA](https://www.tradingview.com/scripts/wma/) , [SMA](https://www.tradingview.com/scripts/simplemovingaverage/) , HullMA
 * Accumulation + Distribution
 
-**Suggested Uses**
-
+## More Suggested Uses 
 * MarketGod will inevitably produce false positives. We've taken steps to reduce this but we highly suggest you add this as a component of your strategy, not an end all be all
 * That said, please do not feel the need to fire a trade based solely on a marketgod signal, or to every signal it fires.
 * MarketGod users should backtest their strategy using OHLC candles for best results
@@ -302,32 +242,18 @@ MarketGod can be applied to any market, with any time-frame associated to it. Th
   * Example \#2  - if the one-month get a signal over the one week it is absolutely worth listening to
 * Reset all alerts every release that we put out. Each upgrade will require new sets of alerts to the tool and you were continue to receive the wrong words in future versions if you still have the words from the past
 
-**Adjusting the Filter Settings**  
-_This tool has a noise filter for users to adjust._  
-**The filter is a percentage based calculation, between significant points in time. The filter ranges between .5 and 25, with .5 increments**
-
-* For lower TFs \(IE Intraday\), keep the filter set between .5-5
-* Mid-TFs \(4H,6H,12H,1D\), the recommended range is between 5.5-10
-* Higher TFs \(3D and Higher\), look for approx 11-20 range
-
-**Customization**  
+## Additional Customization
 Customize the indicator by adjusting the colors in the style pane. Additionally, users can change the plots into labels with the price of close added to them, or a few other label text options, listed in the 'inputs' panel, below the filter adjustments. Users can also opt to turn the strategy orders as well, as this version will have them printed.
 
-{% hint style="info" %}
-**Do not follow every alert. MarketGod is not designed as independent trading system. It's primary function is to alert you when a trade becomes potentially available and then you are to use your own strategy to make the decision**
+```
+Do not follow every alert. MarketGod is not designed as independent trading system. It's primary function is to alert you when a trade becomes potentially available and then you are to use your own strategy to make the decision
 
-* _**THIS MEANS TO ONLY USE MARKETGOD SIGNALS TO CONFIRM YOUR OWN PRECONCEIVED TRADING STRATEGY**_
-{% endhint %}
+THIS MEANS TO ONLY USE MARKETGOD SIGNALS TO CONFIRM YOUR OWN PRECONCEIVED TRADING STRATEGY
+```
 
-* We have added TP SL functionality in this initial release. If they are bugged, we will fix.
-* This tool measures technical set-ups in a given environment by measuring the change % over time in comparison to MTF levels of the same measurement.
-
-**Strategy Performance of MarketGodx**
-
-![Strategy Performance is covered in depth in the next section of this guide](../../.gitbook/assets/screen-shot-2020-06-24-at-12.40.55-pm.png)
+## MarketGod for Tradingview Strategy Results and Performance
 
 ###  Strategy Test Results of _MarketGodx²_
-
 <table>
   <thead>
     <tr>
@@ -384,9 +310,6 @@ Customize the indicator by adjusting the colors in the style pane. Additionally,
 > * _Higher TFs \(3D and Higher\), look for approx 11-20 range_
 
 ## Strategy Testing
-
-_Guidelines and best practices when testing a strategy on_ [_Tradingview_](https://marketgodx.com/tradingview)_.com_
-
 This portion examines the [tradingview](https://marketgodx.com/tradingview) trading platform and the strategy testing engine that enables users to test the historical success and potential revenue generated over a strategy's lifetime. The MarketGod Indicator includes a strategy backtest which users can use in tandem or independently of the Indicator.
 
 1. General differences between the Strategy and Study functions on [Tradingview](https://marketgodx.com/tradingview)
@@ -394,10 +317,6 @@ This portion examines the [tradingview](https://marketgodx.com/tradingview) trad
 3. How to to interpret the results seen when backtesting a [Tradingview](https://marketgodx.com/tradingview) strategy
 
 [Tradingview](https://marketgodx.com/tradingview).com is an online charting platform that offers a powerful solution and test trading engine for users looking to build any trading approach of their own. Tradingview users have the ability to define, develop and refine their own strategies and they can be applied to all general strategies on [tradingview](https://marketgodx.com/tradingview).com and the comprehensive results are illustrative of the success one sees from a given trading approach.
-
-
-
-
 
 ### **Studies Vs Strategies On Tradingview**
 
@@ -417,10 +336,7 @@ Some of the examples below are directly from the [Tradingview](https://marketgod
 
 The strategy report makes interpreting the success of a strategy relatively easy with its first look as we see above. The initial reporting metrics appear and logically make sense as well. But once we pivot over to the list of trades, [Tradingview has identified 4 components that are specified in this blog post](https://www.tradingview.com/blog/en/changes-in-the-backtesting-report-16416/)
 
-![](../../.gitbook/assets/12.png)
-
 ### Strategy Settings and Associated Terms
-
 <table>
   <thead>
     <tr>
@@ -480,17 +396,13 @@ The strategy report makes interpreting the success of a strategy relatively easy
 </table>
 
 **Slippage**
-
 Slippage refers to the conflict between the expected price of a deal and the price at which the trade is executed. Slippage can occur at any time but is most prevalent during periods of volatility when market orders are used. It can also occur when a large order is executed
-
 but there isn't enough volume at the chosen price to maintain the current dictation /ask spread.
 
 **Pyramiding**
-
 Pyramiding involves adding to profitable views to take reward of an instrument that is performing well. It allows for large profits to be made as the status grows. Best of all, it does not have to increase jeopardy if performed properly.
 
 ### **Recommended Candle Type For Back Tests**
-
 Normal Candlesticks \(OHLC\) are the only input we recommend using for back-testing any Tradingview strategy.
 
 Non-standard chart types can provide traders with alternative ways of interpreting price action, but they are not designed to test strategies or run automated traded systems where results depend on the ability to enter and exit trades at precise price levels at specific times, whether orders are issued manually or arithmetically. Ironically, the same characteristics that make non-standard chart types interesting from an analytical point of view also make them ill-suited to trade execution. Why? Because of the dislocation that a synthetic view of price action creates between its non-standard chart prices and real market prices at any given point in time. Switching from a non-standard chart price point into the market always entails a translation of time/price dimensions that results in uncertainty—and uncertainty concerning the level or the time at which orders are executed is detrimental to all strategies.
@@ -499,8 +411,7 @@ Non-standard chart types can provide traders with alternative ways of interpreti
 
 Generally, these are pretty straightforward terms that are returned by the Trading View engine but you need to be able to understand what is going on with the numbers in it to understand how your orders succeeded in your given Trading approach and strategy. Below is an included glossary to reference the different meetings associated with each term when running your strategy and how you can use them to evaluate the performance.
 
-### **Measuring The Performance Of Any Strategy**
-
+### Measuring The Performance Of Any Strategy
 Understanding the definitions of these terms will ultimately add to your general understanding of your strategies performance performance
 
 As you may know by now, back-testing a strategy is a key component in solidifying the base to your overall strategy, which makes the interpreting of its performance report all that more important.
@@ -514,10 +425,7 @@ The Strategy Performance Reports appear on the bottom of your [Tradingview](http
 Many of these performance details are self explanatory, That said, one of the reasons we wanted to write this guide. was because there are a few generalizations and inaccurate assumptions made about the meaning of a few performance details to clear up. These are items to consider when interpreting them on a case by case basis. Below, we touch on the terms referenced and how they could be accurately interpreted on a general level.
 
 ## Strategy Testing Results - By Page 
-
 ### The Overview Page
-
-![The Strategy Testing &apos;Overview&apos; Page appears when running a test strategy on Tradingview.com](../../.gitbook/assets/13.png)
 
 <table>
   <thead>
@@ -752,12 +660,9 @@ Terms found on the 'Performance Summary' Page \(middle page\) on the Strategy Te
   </tbody>
 </table>
 
-![](../../.gitbook/assets/16.jpeg)
-
 In conclusion, the final tips we have for trading are listed below. This guide will ideally be added to over time so remember to check back from time to time in the event any items have changed.
 
 ## Best Practices for Strategy Testing on Tradingview
-
 1. Use OHLC \(normal\) candles
 2.  Always make sure the 'recalculate on every tick' is UNCHECKED in the settings panel
 3. Set slippage to reflect the fees you experience per trade
@@ -772,12 +677,9 @@ In conclusion, the final tips we have for trading are listed below. This guide w
 * [Pine Version 4 Manual](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html)
 * [PineCoder's Testing Engine](https://www.tradingview.com/script/dYqL95JB-Backtesting-Trading-Engine-PineCoders/) \(highly recommended\)
 
-_**Please be sure to**_ [_**review our legal policies and disclaimers**_](https://marketgod.io/legal) _**before trading any financial securities with any content put forth by our team and organization**_
 
 ## Automation
-
 **Plus Other External Tools**
-
 Automation for our tool has always been the goal. In 2020 we are launching an offering through [Trendspider](https://www.marketgodx.com/trendspider), which will enable users of Trendspider to do so on their platform.
 
 In addition to the Trendspider partnership, we are hoping to ultimately automate the entire process with a bot we offer straight from our site, but at this time, the project is only in infancy and not ready to be shared with our user base. Users can follow this project once we announce it officially towards the end of 2020.
@@ -790,10 +692,8 @@ At this time, to maximize your time spent on setting or changing alerts, automat
 * [Profitview for Tradingview](https://marketgodx.com/profitview-chrome-45e7a)
 * [TV-Hub Alerts, Backtesting, Automation & More](https://marketgodx.com/hub-automate-7c825)
 
-_If you'd like to have a tool added to this list, let us know via email at_ [_admin@MarketGod.i_](mailto:admin@marketgod.io)_o_
 
 ## Pinescript Resources
-
 Pinescript Is The Native Programming Language Of [Tradingview.Com](https://marketgodx.com/tradingview). Users Are Able To Build Their Own Indicators And Strategies Based On Technical Calculations And Plot Them All In Pine. We Will Continuously Add To The Scripts Listed Here So We Encourage You To Check Back From Time To Time. These Resources Are Also Available To Those Interested In Learning.
 
 1. [Trading Concepts And Calculations Database](https://user42.tuxfamily.org/chart/manual/Concept-Index.html#Concept-Index)
@@ -808,75 +708,56 @@ Pinescript Is The Native Programming Language Of [Tradingview.Com](https://marke
 10. [Pinescript Related Tutorials Via Kodify](https://kodify.net/tradingview-programming-articles/)
 11. [Pinescript Related Tutorials Via Backtest Rookie](https://backtest-rookies.com/category/tradingview/)
 
-  
-**Find Tradingview base indicators and our pinescript library here** 
 
-{% page-ref page="../../free-resources/pinescript-library.md" %}
-
-
----
 
 # Frequently Asked Questions
+> **Hint** 
+> How to use this FAQ Section 
+> Use the search bar above! OR use the search function in your browser. "CMD +f" is your friend here! Simply search for what you're looking for to find the answer. 
 
-{% hint style="info" %}
-**Hint** 
+## Why did my indicator not send a buy or a sell when the market price changed? 
 
-#### How to use this FAQ Section 
-
-Use the search bar above! OR use the search function in your browser. "CMD +f" is your friend here! Simply search for what you're looking for to find the answer. 
-{% endhint %}
-
-## Why did my indicator not send a buy or a cell when the market price changed? 
-
-_If you're experiencing this, you may be using the tool for the wrong reasons._ 
-
+If you're experiencing this, you may be using the tool for the wrong reasons.
 **If you were confused as to why it has not sent a buy or sell signal, there are two options** 
-
 1. The buy and sell criteria was not triggered for a good reason. This is not a bug and you are misinterpreting the use of this tool. 
 2. You can choose to make your own buys and sells without using the indicator. Just now there is a good reason the alert didn’t fire
 
 ## **What Are The Differences In Marketgod Scripts?**
-
-{% hint style="info" %}
-**New users are recommended to use** [**'MarketGodx for Tradingview'**](https://marketgodx.com/marketgodx-study)**, published** [**by** ](https://tradingview.com/u/marketgodx)\*\*\*\*[**MarketGodx**](https://tradingview.com/u/marketgodx) **in the Tradingview public library.**
-
+**New users are recommended to use** [**'MarketGodx for Tradingview'**](https://marketgodx.com/marketgodx-study)**, 
+published** [**by** ](https://tradingview.com/u/marketgodx)
+[**MarketGodx**](https://tradingview.com/u/marketgodx) **in the Tradingview public library.**
 Each MarketGod script follows a criteria which defines its version number. The main two are highlighted below.
-{% endhint %}
-
 The tools were released sequentially so each progressive version is essentially more accurate, reliable and performs better than its predecessor \(ie. MarketGod v7 is better than MarketGod v6, and MarketGod v6 is better than v5, etc\)
-
 In addition, each "Version" number has its own unique buy and sell criteria from the predecessor. For example, MarketGodx, which was released after MarketGod v7, has a completely different buy and sell criteria than v7, making them completely different at the root.
-
 
 
 ## A MarketGod Alert was sent to my phone / email but nothing painted on the chart when I looked
 
 _This is an easy fix and is typically caused by one of two issues_
 
-#### **Your alerts are outdated**
+1. **Your alerts are outdated**
 
-When we publish a new update, we recommend you reset your alerts entirely. There are tools we recommend to make this an easier process, but it must be done. We ask this because Tradingview does not automatically update the alerts that are already set, when you add a newer version of the chart. So in essence, you're receiving a ghost alert from an older version of MarketGod.
+*When we publish a new update, we recommend you reset your alerts entirely. There are tools we recommend to make this an easier process, but it must be done. We ask this because Tradingview does not automatically update the alerts that are already set, when you add a newer version of the chart. So in essence, you're receiving a ghost alert from an older version of MarketGod*
 
-#### **You are using a very low time frame and the alerts are not confirmed when you check**
-
-MarketGod calculated IN REAL TIME. Meaning, the algo fires the signals when the current bar meets a preset criteria. On lower-time frames, this means there are likely calculations taking place that are right on the edge of hitting the pre-established criteria. We do this as an effort to justify our integrity in calculating without repainting. Our recommendation is the wait until the alert is CONFIRMED before evaluating the signal.
+2. **You are using a very low time frame and the alerts are not confirmed when you check**
+*MarketGod calculated IN REAL TIME. Meaning, the algo fires the signals when the current bar meets a preset criteria. On lower-time frames, this means there are likely calculations taking place that are right on the edge of hitting the pre-established criteria. We do this as an effort to justify our integrity in calculating without repainting. Our recommendation is the wait until the alert is CONFIRMED before evaluating the signal.*
 
 ## What is Repainting?
+Repainting in the forex is a term that represents the trading platform indicator that repainting, meaning that indicator changes display on the chart as new price data (candles/bars) comes in. A repainting process shows that the indicator is displaying on the chart is highly accurate when it is not.
+
+### Repainting indicator
+The repainting indicator is one that goes on changing in its value as an indicator repositioning its line at the point where the current price bar is forming. Such indicators take the help of future data to bring forth the values and signals for entry. In this way, repainting indicators ensure their exit and entry signals in the past look highly accurate and has zero error. The repainting indicator looks accurate on the chart but in real trading, they are not.
 
 Naturally, all [Tradingview](https://marketgodx.com/tradingview) Programmers writing in pine-script will encounter questions regarding the validity of a given script, and how it handles repainting.For those who may be unfamiliar, here is the direct definition of repainting [from the Tradingview Pine-Script Manual](https://www.tradingview.com/pine-script-docs/en/v4/essential/Indicator_repainting.html)
+> Historical data does not include records of intra-bar movements of price; only open, high, low and close \(OHLC\). This leads to a script sometimes working differently on historical data and in real-time, where only the open price is known and where price will typically move many times before the real-time bar’s final high, low and close values are set after the real-time bar closes. 
+> Strategies using ```calc_on_every_tick=true.``` can trigger a repaint warning. Even strategy with parameter ```calc\_on\_every\_tick = false``` may also be prone to repainting, but to a lesser degree. Using security for requesting data from a resolution higher than the resolution of the chart’s main symbol can also trigger repainting. 
 
-Historical data does not include records of intra-bar movements of price; only open, high, low and close \(OHLC\). This leads to a script sometimes working differently on historical data and in real-time, where only the open price is known and where price will typically move many times before the real-time bar’s final high, low and close values are set after the real-time bar closes.
-
-Strategies using calc\_on\_every\_tick=true. A strategy with parameter calc\_on\_every\_tick = false may also be prone to repainting, but to a lesser degree.
-
-Using security for requesting data from a resolution higher than the resolution of the chart’s main symbol
 
 ## **Does MarketGod Repaint?**
-
 No.
 
-## **What Is MarketGod And MarketGod Trading?**
 
+## **What Is MarketGod and MarketGod Trading?**
 MarketGod Trading is an organization committed to better enabling retail traders on their road to success. Our offering is a technical indicator that can be accessed via third party partners, like [tradingview.com](http://tradingview.com/), to ultimately suggest when our users should buy and sell a given security or financial market.
 
 ## **Where Can We Buy MarketGod Access?**
@@ -885,16 +766,15 @@ MarketGod For [Tradingview](https://marketgodx.com/tradingview) One Time Payment
 
 [Card Payment](https://marketgod.io/faq/#)
 
-[Crypto Payment](https://marketgodx.net/CryptoV7)
+[Crypto Payment](https://marketgodx.net/crypto-checkout)
 
-MarketGod for [TrendSpider](http://trendspider.com/)
+MarketGod for [TrendSpider](http://trendspider.com/)(Coming 2021)
 
 All billing is handled by TrendSpider and MarketGod is included
 
-## **Which Markets Can I Apply Marketgod To?**
+## Which Markets Can I Apply Marketgod To?
 
 We've designed MarketGod to work on all of them. If a ticker is available on our partners site, we can analyze the data and apply the algorithm. This includes, but. is not limited to
-
 * Equities
 * Commodities
 * FOREX
@@ -905,40 +785,30 @@ We've designed MarketGod to work on all of them. If a ticker is available on our
 
 Ultimately, if you're a fan of finance, we have a solution for you. Our Financial Service is well known and the benefits towards your overall investing success will be clear.
 
-## **How Do I Find MarketGod ?**
-
-* Please See Our [Tutorials Page](https://marketgod.io/tutorials#3ac2e82e-83a3-4623-9e6a-2bf8ae326eb0)
+## How Do I Find MarketGod?
+* Please See Our Tutorials segment of this user guide. 
 
 ## **What Comes With My MarketGod Purchase?**
-
-_\*\*\*\*_[_**MarketGod for Tradingview Includes**_](https://marketgodx.com/tradingview)
-
+[_**MarketGod for Tradingview Includes**_](https://marketgodx.com/tradingview)
 * MarketGod for Tradingview \[study\] 
 * MarketGod for Tradingview \[strategy\] 
 
 ## **What Can I Use  For Free?**
-
 **Regardless if you are a MarketGod customer/user, all traders on tradingview.com can access these tools we have published** 
-
 * [MarketGod Visuals](https://marketgodx.com/free-visual-add-on)
 * [Market EKG](https://tradingview.com/u/KingThies_)
 * [RSI Divergence](http://tradingview.com/u/KingThies_)
 
 ## **Do You Accept Crypto Payment?**
-
 * We accept all cryptocurrencies from all countries. By design, you may notice from time to time our cryptocurrency prices are significantly lower than the card payment.
-* [Pay with crypto](https://marketgodx.net/CryptoV7)
+* [Pay with crypto](https://marketgodx.com/crypto-checkout)
 
 ## **Is There An Affiliate Program?**
-
 * Yes
-
 **Register following this link**
-
-{% embed url="https://marketgodx.com/register-affiliate-bd4f6" %}
+https://marketgodx.com/register-affiliate-bd4f6
 
 ## **How Are We Supposed To Use Marketgod?**
-
 Please see our comprehensive \(and growing\) collection of [User-Guides](http://www.docs.marketgod.io/) and more.
 
 ## **How Do We Set Up Marketgod?**
@@ -958,31 +828,22 @@ If you are not on the tool after 12 hours, please email us a reminder at admin@m
 
 ## **Is there a best time frame to use this?**
 
-[Addressed on the suggested uses linked here  
-](https://marketgod.io/suggested-uses)Does candle type matter? Do I have to use Heiken Ashi candles?
+[Addressed on the suggested uses linked here  ](https://marketgod.io/suggested-uses)Does candle type matter? Do I have to use Heiken Ashi candles?
 
 [Addressed on the suggested uses linked here](https://websites.godaddy.com/suggested-uses)
 
 ## Which Alert Setting is Best? Once Per Bar?
-
 Once per bar is correct.
-
 And if you haven't received an alert on the 1D frame yet, that's because the Market isn't offering any trades MarketGod deems as risky worthy. This is a good thing.
-
 View the support item on Tradingview Support links for more info 
 
-{% page-ref page="tradingview-support-links.md" %}
-
 ## It Seems that my Alerts Disappear Before the Period Closes - Why? 
-
 As mentioned in suggested uses, we advise waiting until the prior period has closed for confirmation.
 
 ## **May I know how Eric Thies is using it? The settings, and method/strategies, etc.?**
-
 HA Candles. TF's ranging 1h, 4h, 6h, 1D, 3D, 1w, 2w and 1M. Bollinger Bands & Keltner Channels on my chart, with MarketGod Visuals Tool and RSI Divergence. Sometimes I use the BB% Oscillator
 
 ## **When does MarketGod calculate its signals?**
-
 The signals are calculated by the most recent data available to the indicator on tradingview. If your chart is in relatime, it will send the alert in real time, meaning AS IT HAPPENS. If your chart is using signals that are delayed, MarketGod will calculate on the data made available time.
 
 For Automation purposes, alerts and notifications send at the confirmation of the period closing with a given alert.
@@ -990,32 +851,10 @@ For Automation purposes, alerts and notifications send at the confirmation of th
 The different classical technical indicators comprised across the various MarketGod versions include magnitudes of various oscillators mainly comprised of MACD, RSI, Stochastic, Ichimoku, Gann Trend Analysis, Wyckoff Accum/Distribution Laws, Fibonacci calculated support/resistances, and more.
 
 ## Which Version Should I Use? 
-
 New Users are recommended to Use MarketGodx for Tradingview, which you can find by searching "MarketGodx" In the public indicator library. This will be version MarketGodx² when added to your chart.
 
 ##  The Lock on My Indicator Access is Still Red 
-
 Still try adding the tools after refreshing the browser. The red lock updates once you've accessed a tool, not just gained access to it.
-
-## My Strategy is not Compiling 
-
-Look familiar? Lets resolve it here. 
-
-**This occurs uniquely to the MarketGodx - Test Strategy** 
-
-![&quot;Quantity for entry or order must be a positive.....&quot;](../.gitbook/assets/screen-shot-2020-06-24-at-9.04.37-am.png)
-
-![Option 1. to resolve this is to adjust the percentage on the order to 1% instead of 10.](../.gitbook/assets/screen-shot-2020-06-24-at-9.08.45-am.png)
-
-### Option 1.  
-
-Resolve this by adjusting the percentage on the order to 1% instead of 10. We experienced this on altcoins, although it may reoccur elsewhere 
-
-### Option 2. 
-
-If adjusting the % doesn't work, try changing the input option to "contracts" instead of % 
-
-![Option \#2, adjust the input type to contracts in the strategy settings.](../.gitbook/assets/screen-shot-2020-06-24-at-9.10.37-am.png)
 
 ## Why are my labels only showing up on part of the chart? 
 
@@ -1025,28 +864,19 @@ Simply put, the more authors with visuals on charts takes more server space and 
 
 **To solve this, we recommend changing the time frame, zooming in, or reducing the frequency in alerts by changing the filter settings to a higher number. You may also replace the label options with normal plots again.** 
 
-![Look Familiar? ](../.gitbook/assets/screen-shot-2020-07-07-at-1.32.35-am.png)
+## Can I use these indicators with a free TradingView account?
 
-## **Can I use these indicators with a free TradingView account?** 
-
-  
-****You can use all of our indicators with a free account, but keep in mind, with a free account you can only set up one live alert and only have up to three indicators on your chart active at one time. With a Pro account, you can set up multiple alerts and have up to 10 indicators on your chart at one time. I recommend a PRO+ account which will give you more than enough alerts and indicators on your chart. You can view the TV membership options at [www.TradingView.com/gopro](https://www.tradingview.com/gopro/)  
+You can use all of our indicators with a free account, but keep in mind, with a free account you can only set up one live alert and only have up to three indicators on your chart active at one time. With a Pro account, you can set up multiple alerts and have up to 10 indicators on your chart at one time. I recommend a PRO+ account which will give you more than enough alerts and indicators on your chart. You can view the TV membership options at [www.TradingView.com/gopro](https://www.tradingview.com/gopro/)
 
 
 ## **Do you have indicators coded for MT4?** 
-
 Our indicators only work on TradingView at the moment. There are some plans to code them for MT4 and MT5 but we don't have an ETA on that.  
-  
 What a lot of traders do is chart their trades with our indicators on TradingView and then place their trades on MT4. This is a very popular and preferred method since TradingView is known to have the best charting platform for Crypto, Stocks, and Forex and MT4 is well known for it's fast and easy trade execution platform. 
 
-
-
-### Why is the Admin in the Discord Group Non-Responsive?
-
+## Why is the Admin in the Discord Group Non-Responsive?
 Our team chooses to be less involved. This is not a trading group, or premium paid group in which the admin needs to be involved. This is a product, and was purchased.. Questions that are asked will be answered if they are 
-
 1. Unasked, or un-addressed elsewhere in the group 
-2. . New problems or issues that need a response. 
+2. New problems or issues that need a response. 
 
 
 
