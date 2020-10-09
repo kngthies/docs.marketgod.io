@@ -1,9 +1,8 @@
 # MarketGod for Tradingview 
 ## Comprehensive product manual and documentation for the MarketGod Indicator accessed on <a href="tradingview.com">Tradingview.com</a>
---
+***
 # Introduction
 ### Hello and welcome to MarketGod Trading
-
 Regardless of your background in trading/finance, and regardless of where you are from, thank you for taking the time to review these documents, and educate yourself on what has really become the core of my livlihood over the course of several years. 
 Whether you are new to the MarketGod Indicator or a seasoned veteran, we appreciate your presence and hope to maintain your trading success, and ideally add value to your trades prior to making them. If you've just purchased access to MarketGod for Tradingview, we will get you added shortly. This guide aims to Establish a framework / fundamental understanding of what our tools do, so they can utilize and apply them best. In addition,If you're just getting started and don't know how to add MarketGod in the Tradingview Public Library, we recommend you start in the [tutorials](https://docs.marketgod.io/guides/guide/tutorials#how-to-find-marketgod) section for assistance.
 
