@@ -112,7 +112,6 @@ This section will detail the most effective way we are aware of, to maximize the
 
 [GIF Tutorial](https://i.imgur.com/V03AD6H.gifv)
 
-[img](/Users/ethies/Documents/Github/MarketGod-for-Tradingview-Full-Documentation/NA Values/removing na values 1.png)
 
 1. From your [Tradingview chart](https://marketgodx.com/tradingview), navigate to the market or ticker and timeframes you'd like to set an alert for
 2. From the main chart, click on the alerts icon in the right panel and then click the plus + to open the ‘Set Alert’ menu
@@ -125,7 +124,7 @@ This section will detail the most effective way we are aware of, to maximize the
 
 [GIF Tutorial](https://i.imgur.com/73xGnNs.gifv)
 
-<img: src="/Users/ethies/Documents/Github/MarketGod-for-Tradingview-Full-Documentation/NA Values/removing na values 1.png">
+![Settings](https://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/main/NA%20Values/removing%20na%20values%201.png)
 
 1. From the main tradingview chart on your screen, navigate to chart settings by selecting the settings pinwheel in the bottom right corner of the chart, or alternatively you can left click on the chart and find the settings option at the bottom.
 2. From the chart settings panel, select the "Status Line" tab
