@@ -374,7 +374,7 @@ This portion examines the [tradingview](https://marketgodx.com/tradingview) trad
 
 ## Studies Vs Strategies On Tradingview
 
-https://www.youtube.com/watch?v=eAaaiRVEcyw&t=4s
+[Youtube Tutorial](https://www.youtube.com/watch?v=eAaaiRVEcyw&t=4s)
 
 [Tradingview](https://marketgodx.com/tradingview) differentiates strategies from studies in multiple ways that will be discussed below. If unfamiliar with the topic, know that Studies and Indicators are the same thing. Any Oscillator, Chart overlay, indicator, etc is a STUDY in technicality. Studies differ directly in that strategies are reactive to market environment and variables change given the situation, while studies will be more of a 'rinse, repeat' kind of set-up in which we can generate alerts from in which we use to apply a strategy to.
 
