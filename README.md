@@ -62,7 +62,7 @@ When providing the information requested on the form, please be sure to double c
 
 ## MarketGod Indicator Access Confirmation
 
-**Your access to MarketGod will be confirmed via notification from Tradingview.com. Below, we walk through each step that needs to be taken to find the notification**
+Your access to MarketGod will be confirmed via notification from Tradingview.com. Below, we walk through each step that needs to be taken to find the notification
 
 1. After submitting the user registration form, please allow up to 6 hours to be on the tool. We have an automated system and expect your permissions to be granted within 5-10 minutes of submitting, but we ask for the longer period of time in the event the system has an error or there is a reason for the change.
 
@@ -112,7 +112,6 @@ This section will detail the most effective way we are aware of, to maximize the
 
 [GIF Tutorial](https://i.imgur.com/V03AD6H.gifv)
 
-
 1. From your [Tradingview chart](https://marketgodx.com/tradingview), navigate to the market or ticker and timeframes you'd like to set an alert for
 2. From the main chart, click on the alerts icon in the right panel and then click the plus + to open the ‘Set Alert’ menu
 3. Set the alerts for Buy and Sell, by selecting the MarketGod Indicator as the source of the alert (first drop down menu in the panel).
@@ -124,7 +123,7 @@ This section will detail the most effective way we are aware of, to maximize the
 
 [GIF Tutorial](https://i.imgur.com/73xGnNs.gifv)
 
-![Settings](https://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/main/NA%20Values/removing%20na%20values%201.png)
+![Settings](http://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/main/NA%20Values/removing%20na%20values%201.png)
 
 1. From the main tradingview chart on your screen, navigate to chart settings by selecting the settings pinwheel in the bottom right corner of the chart, or alternatively you can left click on the chart and find the settings option at the bottom.
 2. From the chart settings panel, select the "Status Line" tab
@@ -148,11 +147,11 @@ This section is related to the visual appearance of MarketGod. If you are lookin
 [GIF Tutorial](https://marketgodx.com/free-visual-add-on)
 
 > All aspects of your chart can be customized on the tradingview platform. Do this, by going to the "chart settings" tab/settings pin wheel on the bottom right corner of screen.
-**For additional customization's to your chart, add 'MarketGod Visuals' from the public library**
+> For additional customization's to your chart, add 'MarketGod Visuals' from the public library
 
 ***
 
-## General Suggested Uses 
+## General Suggested Uses
 
 ### Which Timeframes to use MarketGod
 
@@ -294,7 +293,7 @@ MarketGod Components
 - That said, please do not feel the need to fire a trade based solely on a marketgod signal, or to every signal it fires.
 - MarketGod users should backtest their strategy using OHLC candles for best results
 - Heikin Ashi candles were recommended in the past, and we have eliminated the need for them, meaning that traditional [candlestick](https://www.tradingview.com/scripts/candlestick/) inputs will yield the highest results.
-- MarketGod will always give stronger alerts on higher TF's. 
+- MarketGod will always give stronger alerts on higher TF's.
   - Example \#1 - If the 1-Day has fired a given signal and the 30 min or similar fire the opposite signal, know that the overall trend is still likely downward. Same concept applies to all timeframes on this tool.
   - Example \#2  - if the one-month get a signal over the one week it is absolutely worth listening to
 - Reset all alerts every release that we put out. Each upgrade will require new sets of alerts to the tool and you were continue to receive the wrong words in future versions if you still have the words from the past
