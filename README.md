@@ -125,7 +125,7 @@ This section will detail the most effective way we are aware of, to maximize the
 
 ![NA Values Step 1 ](https://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/test-images/NA%20Values/removing%20na%20values%201.png?raw=true)
 
-![NA Values Step 2 ](https://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/test-images/NA%20Values/removing%20na%20values2.png)
+![NA Values Step 2 ](https://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/test-images/NA%20Values/removing%20na%20values2.png?raw=true)
 
 ![NA Values Step 3](https://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/test-images/NA%20Values/removing%20na%20values3.png?raw=true)
 
