@@ -123,7 +123,13 @@ This section will detail the most effective way we are aware of, to maximize the
 
 [GIF Tutorial](https://i.imgur.com/73xGnNs.gifv)
 
-![Settings](https://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/test-images/NA%20Values/removing%20na%20values%201.png?raw=true)
+![NA Values Step 1 ](https://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/test-images/NA%20Values/removing%20na%20values%201.png?raw=true)
+
+![NA Values Step 2 ](https://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/test-images/NA%20Values/removing%20na%20values%202.png?raw=true)
+
+![NA Values Step 3](https://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/test-images/NA%20Values/removing%20na%20values%203.png?raw=true)
+
+![NA Values Step 4](https://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/test-images/NA%20Values/removing%20na%20values%204.png?raw=true)
 
 1. From the main tradingview chart on your screen, navigate to chart settings by selecting the settings pinwheel in the bottom right corner of the chart, or alternatively you can left click on the chart and find the settings option at the bottom.
 2. From the chart settings panel, select the "Status Line" tab
