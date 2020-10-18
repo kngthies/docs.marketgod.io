@@ -79,7 +79,7 @@ They change to green after you have successfully ADDED the tool to your chart.
 [GIF Tutorial](https://imgur.com/gallery/71UMCWT)
 
 1. **[Log into to your account on Tradingview](https://tradingview.com)**
-2. **From the homepage, click on ‘Chart’ in the top navigation bar.Select “Indicators” on the top-center-middle panel**:
+2. **From the homepage, click on ?Chart? in the top navigation bar.Select ?Indicators? on the top-center-middle panel**:
 3. **In the indicator library, you will notice your tradingview account will now have a "invite only" section on the left-hand side. The indicator and strategy will both be available to you, and will look as the photo below**
 
 > Be Sure to choose the MarketGod for Tradingview [study] **published by user MarketGodx.**
@@ -115,7 +115,7 @@ This section will detail the most effective way we are aware of, to maximize the
 [img](/Users/ethies/Documents/Github/MarketGod-for-Tradingview-Full-Documentation/NA Values/removing na values 1.png)
 
 1. From your [Tradingview chart](https://marketgodx.com/tradingview), navigate to the market or ticker and timeframes you'd like to set an alert for
-2. From the main chart, click on the alerts icon in the right panel and then click the plus + to open the ‘Set Alert’ menu
+2. From the main chart, click on the alerts icon in the right panel and then click the plus + to open the ?Set Alert? menu
 3. Set the alerts for Buy and Sell, by selecting the MarketGod Indicator as the source of the alert (first drop down menu in the panel).
 4. When the source is set to MarketGod, choose 'Buy Alert' or 'Sell Alert' from the menu afterward.
 5. The frequency of the alerts should be set to your preference. We recommend the 'Once per bar close' option that sends an alert via SMS for email, without expiry, whenever the conditions are met.
@@ -208,7 +208,7 @@ For us, that includes
 
 ## Suggested Uses By Indicator
 
-With multiple releases over multiple periods of time, our indicator has several hundred users who may prefer the earlier releases, which include MarketGod v5, MarketGod v6 and MarketGod v7. These are referred to as our legacy tools, and everybody who purchases MarketGod for [Tradingview](https://marketgodx.com/tradingview) has access to them all, along with our accompanying back-test. For new users, we recommend MarketGodx, the primary indicator we promote and have recently upgraded to MarketGodx²
+With multiple releases over multiple periods of time, our indicator has several hundred users who may prefer the earlier releases, which include MarketGod v5, MarketGod v6 and MarketGod v7. These are referred to as our legacy tools, and everybody who purchases MarketGod for [Tradingview](https://marketgodx.com/tradingview) has access to them all, along with our accompanying back-test. For new users, we recommend MarketGodx, the primary indicator we promote and have recently upgraded to MarketGodx�
 
 - [MarketGod v5](https://marketgodx.com/marketgod-v5-study)
 - [MarketGod v6](https://marketgodx.com/marketgod-v6-study)
@@ -267,7 +267,7 @@ Our initial privately offered indicator that built on the success of the once-op
 
 - The Chop Filter itself is an EMA length that price is required to crossover as confirmation for the given period. This means the lower you set it, the more frequent the alerts and more chop there is involved. The higher the number, the less alerts shown-
 
-## MarketGodx²
+## MarketGodx�
 
 ### Indicator Description
 
@@ -312,7 +312,7 @@ THIS MEANS TO ONLY USE MARKETGOD SIGNALS TO CONFIRM YOUR OWN PRECONCEIVED TRADIN
 
 ## MarketGod for Tradingview Strategy Results and Performance
 
-### Strategy Test Results of MarketGodx²
+### Strategy Test Results of MarketGodx�
 
 <table>
   <thead>
@@ -388,7 +388,7 @@ Indicators can not place orders or cannot be modified to fit a given environment
 
 The challenge is that of the [Tradingview](https://marketgodx.com/tradingview) users testing their strategies do not know how to interpret the results provided by Tradingview, which we aim to accomplish by showing specific examples and methods of testing, a standard of practice for our users and all Tradingview users to follow, along with various resources for reading further into this subject.
 
-Some of the examples below are directly from the [Tradingview](https://marketgodx.com/tradingview) blog, and resources provided by the PineCoders Community (Tradingview endorsed group & pine script MOD’s\). These items will be cited formally and linked.
+Some of the examples below are directly from the [Tradingview](https://marketgodx.com/tradingview) blog, and resources provided by the PineCoders Community (Tradingview endorsed group & pine script MOD?s\). These items will be cited formally and linked.
 
 The strategy report makes interpreting the success of a strategy relatively easy with its first look as we see above. The initial reporting metrics appear and logically make sense as well. But once we pivot over to the list of trades, [Tradingview has identified 4 components that are specified in this blog post](https://www.tradingview.com/blog/en/changes-in-the-backtesting-report-16416/)
 
@@ -462,7 +462,7 @@ Pyramiding involves adding to profitable views to take reward of an instrument t
 
 Normal Candlesticks \(OHLC\) are the only input we recommend using for back-testing any Tradingview strategy.
 
-Non-standard chart types can provide traders with alternative ways of interpreting price action, but they are not designed to test strategies or run automated traded systems where results depend on the ability to enter and exit trades at precise price levels at specific times, whether orders are issued manually or arithmetically. Ironically, the same characteristics that make non-standard chart types interesting from an analytical point of view also make them ill-suited to trade execution. Why? Because of the dislocation that a synthetic view of price action creates between its non-standard chart prices and real market prices at any given point in time. Switching from a non-standard chart price point into the market always entails a translation of time/price dimensions that results in uncertainty—and uncertainty concerning the level or the time at which orders are executed is detrimental to all strategies.
+Non-standard chart types can provide traders with alternative ways of interpreting price action, but they are not designed to test strategies or run automated traded systems where results depend on the ability to enter and exit trades at precise price levels at specific times, whether orders are issued manually or arithmetically. Ironically, the same characteristics that make non-standard chart types interesting from an analytical point of view also make them ill-suited to trade execution. Why? Because of the dislocation that a synthetic view of price action creates between its non-standard chart prices and real market prices at any given point in time. Switching from a non-standard chart price point into the market always entails a translation of time/price dimensions that results in uncertainty?and uncertainty concerning the level or the time at which orders are executed is detrimental to all strategies.
 
 [Read why on this published post from PineCoders](https://marketgodx.com/why-backtest-with-candles)
 
@@ -731,7 +731,7 @@ In conclusion, the final tips we have for trading are listed below. This guide w
 ## Further Reading into Strategies
 
 - [Further Reading on Max Drawdown](https://www.investopedia.com/terms/d/drawdown.asp) 
-- [Back Test Rookies Tradingview: Strategy Tester – Performance Summary](https://backtest-rookies.com/2018/07/06/tradingview-strategy-tester-performance-summary/) 
+- [Back Test Rookies Tradingview: Strategy Tester ? Performance Summary](https://backtest-rookies.com/2018/07/06/tradingview-strategy-tester-performance-summary/) 
 - [Pinecoders Script Post Why use OHLC with back testing?](https://marketgodx.com/repainting-when-not-using-security)
 - [Tradingview Pine Reference Manual](https://www.tradingview.com/pine-script-reference/)
 - [Pine Version 4 Manual](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html)
@@ -780,7 +780,7 @@ Pinescript Is The Native Programming Language Of [Tradingview.Com](https://marke
 If you're experiencing this, you may be using the tool for the wrong reasons.
 -If you were confused as to why it has not sent a buy or sell signal, there are two options- 
 1. The buy and sell criteria was not triggered for a good reason. This is not a bug and you are misinterpreting the use of this tool. 
-2. You can choose to make your own buys and sells without using the indicator. Just now there is a good reason the alert didn’t fire
+2. You can choose to make your own buys and sells without using the indicator. Just now there is a good reason the alert didn?t fire
 
 ## What Are The Differences In Marketgod Scripts?
 
@@ -810,8 +810,8 @@ Repainting in the forex is a term that represents the trading platform indicator
 
 The repainting indicator is one that goes on changing in its value as an indicator repositioning its line at the point where the current price bar is forming. Such indicators take the help of future data to bring forth the values and signals for entry. In this way, repainting indicators ensure their exit and entry signals in the past look highly accurate and has zero error. The repainting indicator looks accurate on the chart but in real trading, they are not.
 Naturally, all [Tradingview](https://marketgodx.com/tradingview) Programmers writing in pine-script will encounter questions regarding the validity of a given script, and how it handles repainting.For those who may be unfamiliar, here is the direct definition of repainting [from the Tradingview Pine-Script Manual](https://www.tradingview.com/pine-script-docs/en/v4/essential/Indicator_repainting.html)
-> Historical data does not include records of intra-bar movements of price; only open, high, low and close \(OHLC\). This leads to a script sometimes working differently on historical data and in real-time, where only the open price is known and where price will typically move many times before the real-time bar’s final high, low and close values are set after the real-time bar closes. 
-> Strategies using ```calc_on_every_tick=true.``` can trigger a repaint warning. Even strategy with parameter ```calc\_on\_every\_tick = false``` may also be prone to repainting, but to a lesser degree. Using security for requesting data from a resolution higher than the resolution of the chart’s main symbol can also trigger repainting. 
+> Historical data does not include records of intra-bar movements of price; only open, high, low and close \(OHLC\). This leads to a script sometimes working differently on historical data and in real-time, where only the open price is known and where price will typically move many times before the real-time bar?s final high, low and close values are set after the real-time bar closes. 
+> Strategies using ```calc_on_every_tick=true.``` can trigger a repaint warning. Even strategy with parameter ```calc\_on\_every\_tick = false``` may also be prone to repainting, but to a lesser degree. Using security for requesting data from a resolution higher than the resolution of the chart?s main symbol can also trigger repainting. 
 
 ## Does MarketGod Repaint?
 
@@ -931,7 +931,7 @@ The different classical technical indicators comprised across the various Market
 
 ## Which Version Should I Use
 
-New Users are recommended to Use MarketGodx for Tradingview, which you can find by searching "MarketGodx" In the public indicator library. This will be version MarketGodx² when added to your chart.
+New Users are recommended to Use MarketGodx for Tradingview, which you can find by searching "MarketGodx" In the public indicator library. This will be version MarketGodx� when added to your chart.
 
 ## The Lock on My Indicator Access is Still Red
 
