@@ -1,6 +1,12 @@
-# MarketGod for Tradingview
+# The MarketGod Indicator 
 
-## Comprehensive product manual and documentation for the MarketGod Indicator accessed on Tradingview.com
+## Buy and Sell Alerts for Trading All Financial Markets
+
+### Accessed by Traders via the Powerful [Tradingview Charting Platform](https://marketgodx.com/tradingview)
+
+[MarketGod Buy and Sell Alerts for Tradingview](https://github.com/xkingthies/MarketGod-for-Tradingview-Full-Documentation/blob/main/Brand%20Assets/800x800%20Transparent%20Crown%20Icon.png?raw=true)
+
+
 ***
 
 ## Introduction
