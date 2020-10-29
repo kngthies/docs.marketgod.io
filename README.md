@@ -9,14 +9,14 @@
 
 ***
 
-## Introduction
+##  Introduction
 
-### Hello and welcome to MarketGod Trading
+###  Hello and welcome to MarketGod Trading
 
 Regardless of your background in trading/finance, and regardless of where you are from, thank you for taking the time to review these documents, and educate yourself on what has really become the core of my livlihood over the course of several years.
 Whether you are new to the MarketGod Indicator or a seasoned veteran, we appreciate your presence and hope to maintain your trading success, and ideally add value to your trades prior to making them. If you've just purchased access to MarketGod for Tradingview, we will get you added shortly. This guide aims to Establish a framework / fundamental understanding of what our tools do, so they can utilize and apply them best. In addition,If you're just getting started and don't know how to add MarketGod in the Tradingview Public Library, we recommend you start in the [tutorials](https://docs.marketgod.io/guides/guide/tutorials#how-to-find-marketgod) section for assistance.
 
-## Recommended First Steps
+##  Recommended First Steps
 
 Once you have purchased access to MarketGod, Follow us on our social platforms. This is how we keep users up to date on the latest updates and changes.
 
@@ -26,11 +26,11 @@ Secondly, add the following Email Address to your Contacts + Whitelisted Domains
 
 ***
 
-## User Requirements
+##  User Requirements
 
 Before we can add you to MarketGod for Tradingview on Tradingview.com, we require the following from all our users.
 
-## Tutorial: Start using MarketGod
+##  Tutorial: Start using MarketGod
 
 First, you need to [Create an account on Tradingview.com](https://tradingview.com/)
 
@@ -40,7 +40,7 @@ Once the account has been made, you will need to purchase our tool, which is ava
 
  [Purchase MarketGod for Tradingview**](https://checkout.marketgod.io/)
 
-## Included with MarketGod Purchase
+##  Included with MarketGod Purchase
 
 - [MarketGod for Tradingview [study]](https://www.tradingview.com/script/incLctTa-MarketGod-for-Tradingview-study/)
 - [MarketGod for Tradingview [strategy]](https://www.tradingview.com/script/incLctTa-MarketGod-for-Tradingview-strategy)
@@ -48,24 +48,24 @@ Once the account has been made, you will need to purchase our tool, which is ava
 If hesitant to purchase, we are happy to answer any questions or address any concerns [via email](mailto:admin@marketgod.io).
 
 ***
+ 
+##  New User Registration
 
-## New User Registration
-
-### Once purchased, users are directed to a registration process that is required for all users to complete
+###  Once purchased, users are directed to a registration process that is required for all users to complete
 
 Upon completion of payment, users complete a registration process to provide us the required details we need to add you to Tradingview. This registration process will start in one of these two methods
 Most commonly, users are redirected to our registration straight from the payment completion
 In the event you are not redirected to our registration, we also email the link to the registration form, which is delivered after successful payments are received.
 When providing the information requested on the form, please be sure to double check your Tradingview Username. The management system we have available to us from Tradingview is case-sensitive, making it that much more important you verify your username prior to submitting the form
 
-## How to Find Your Tradingview Username
+##  How to Find Your Tradingview Username
 
 1. **Go to [https://www.tradingview.com/](https://www.tradingview.com/)**
 2. **Once you have made it to Tradingview, log into your account, if you haven't already**
 3. **Go to [https://www.tradingview.com/u/](https://www.tradingview.com/u/)**
 4. **The user name that appears on the profile in front of you is your username**
 
-## MarketGod Indicator Access Confirmation
+##  MarketGod Indicator Access Confirmation
 
 Your access to MarketGod will be confirmed via notification from Tradingview.com. Below, we walk through each step that needs to be taken to find the notification
 
@@ -79,7 +79,7 @@ They change to green after you have successfully ADDED the tool to your chart.
 
 **If you find yourself waiting multiple hours without gaining access to the indicator, [please email our team](mailto:admin@marketgod.io) with a copy of your receipt and we will plan accordingly from there!**
 
-### How To Find the MarketGod Indicator and Add to Your Chart on Tradingview
+###  How To Find the MarketGod Indicator and Add to Your Chart on Tradingview
 
 [GIF Tutorial](https://imgur.com/gallery/71UMCWT)
 
@@ -96,13 +96,13 @@ For additional assistance before continuing, [please email us here](mailto:admin
 
 ***
 
-## Using the MarketGod Indicator
+##  Using the MarketGod Indicator
 
 ### Recommendations for using the MarketGod Indicator and how to maximize your study & strategy effectively
 
 This section will detail the most effective way we are aware of, to maximize the efficiency and succcess of the MarketGod algorithm.
 
-#### Covered in this section
+####  Covered in this section
 
  1. **Tutorials**
 
@@ -113,7 +113,7 @@ This section will detail the most effective way we are aware of, to maximize the
  2. **Customizing MarketGod Visuals**
  3. **Understanding how the alerts are sent**
 
-## Tutorial: Setting Alerts in Tradingview
+##  Tutorial: Setting Alerts in Tradingview
 
 [GIF Tutorial](https://i.imgur.com/V03AD6H.gifv)
 
@@ -124,7 +124,7 @@ This section will detail the most effective way we are aware of, to maximize the
 5. The frequency of the alerts should be set to your preference. We recommend the 'Once per bar close' option that sends an alert via SMS for email, without expiry, whenever the conditions are met.
 6. This option is only available through [tradingview's premium plans](https://marketgodx.com/tradingview)
 
-## Tutorial:  Removing NA Values
+##  Tutorial: Removing NA Values
 
 [GIF Tutorial](https://i.imgur.com/73xGnNs.gifv)
 
@@ -138,12 +138,12 @@ This section will detail the most effective way we are aware of, to maximize the
 2. From the chart settings panel, select the "Status Line" tab
 3. In the Status Line Panel, toggle the different settings available for indicator argurments, indicator vales and the additional options as well.
 
-## Customization and Personalized Appearances
+##  Customization and Personalized Appearances
 
 MarketGod Users can adjust the overall appearance of the indicator as they use it. For a full list on why can be customized on tradingview.com in entirety, please see the references to tradingview.com, and note this applies to every indicator in strategy that users can add from the public library
 This section is related to the visual appearance of MarketGod. If you are looking for adjustments and details on how to use the V7 and MarketGodx noise filter.
 
-### Available Customizations
+###  Available Customizations
 
 - MarketGod Signal Colors
 - MarketGod Signal Type
@@ -160,19 +160,19 @@ This section is related to the visual appearance of MarketGod. If you are lookin
 
 ***
 
-## General Suggested Uses
+##  General Suggested Uses
 
-### Which Timeframes to use MarketGod
+###  Which Timeframes to use MarketGod
 
 MarketGod is designed to work across -every- timeframe on tradingview.com - that said, MarketGod is the most effective on the 1h, 4h, 1D timeframes. Other frames include (but are not limited to) the 3D, 1W, 2W & 1M timeframes depending on the traders preference
 
-## What Markets to Trade Using MarketGod
+##  What Markets to Trade Using MarketGod
 
 All Markets avialable on Tradingview.com
 
 - Know that I built the tools primarily on Bitcoin vs. USD, because that's what I personally trade. That said, it DOES work on everything from equities, commodities, precious metals, indexes, funds, etc.
   
-## How to Proceed When a Buy or Sell Signal Appears
+##  How to Proceed When a Buy or Sell Signal Appears
 
 When following an alert you've received from one of our indicators, please ensure to verify its validity by making note of the environment the alert came from.
 
@@ -193,7 +193,7 @@ First off, know that these guidelines for steps taken after receiving an alert w
 1. Increased exposure to market volatility over shorter period of time
 2. Increased fees on the market you are trading. 1% over 100,000 trades add up quickly.
 
-### That said, following these outlined steps will likely end closer to positive with profits
+###  That said, following these outlined steps will likely end closer to positive with profits
 
 Choose your preferred Market to trade. I use Bitcoin-USD but any you prefer is okay.
 Once MarketGod is added to your charts, which we discussed above, we also recommend you add whichever indicators are preferred in your normal trading routine.
@@ -206,14 +206,14 @@ For us, that includes
 - [Keltner Channels](https://www.tradingview.com/scripts/keltnerchannels/)
 - [MarketGod Visuals](https://marketgodx.com/free-visual-add-on)
 
-## Tutorial: How to Trade With MarketGod
+##  Tutorial: How to Trade With MarketGod
 
 1. Assuming you're ready to go now, go ahead and set the alerts you need for MarketGod.
 2. Wait for the Alerts to fire
 3. Evaluate the market when the alert is received
 4. Make trade at own risk
 
-## More Suggested Uses
+##  More Suggested Uses
 
 - MarketGod will inevitably produce false positives. We've taken steps to reduce this but we highly suggest you add this as a component of your strategy, not an end all be all
 - That said, please do not feel the need to fire a trade based solely on a marketgod signal, or to every signal it fires.
@@ -224,7 +224,7 @@ For us, that includes
   - Example \#2  - if the one-month get a signal over the one week it is absolutely worth listening to
 - Reset all alerts every release that we put out. Each upgrade will require new sets of alerts to the tool and you were continue to receive the wrong words in future versions if you still have the words from the past
 
-## Additional Customization
+##  Additional Customization
 
 Customize the indicator by adjusting the colors in the style pane. Additionally, users can change the plots into labels with the price of close added to them, or a few other label text options, listed in the 'inputs' panel, below the filter adjustments. Users can also opt to turn the strategy orders as well, as this version will have them printed.
 
@@ -234,9 +234,9 @@ THIS MEANS TO ONLY USE MARKETGOD SIGNALS TO CONFIRM YOUR OWN PRECONCEIVED TRADIN
 
 ***
 
-## MarketGod for Tradingview Strategy Results and Performance
+##  MarketGod for Tradingview Strategy Results and Performance
 
-### Strategy Test Results of MarketGodx�
+###  Strategy Test Results of MarketGodx�
 
 <table>
   <thead>
@@ -307,71 +307,23 @@ The strategy report makes interpreting the success of a strategy relatively easy
 
 ## Strategy Settings and Associated Terms
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Terms</th>
-      <th style="text-align:left">Definitions</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"> <b>Profit (1)(from image)</b>
-      </td>
-      <td style="text-align:left">
-        <p>This shows the profit per trade and the percentage gain or loss of that
-          trade.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Cumulative Profit (2)(from Image)</b>
-      </td>
-      <td style="text-align:left">
-        <p>This shows the total profits or losses of the strategy after closing a
-          trade and the percentage gain or loss of the strategy over time.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Run-up (3)(from Image)</b>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p>This shows the maximum possible profit of the trade according to the strategy
-          as well as the maximum percentage gain.</p>
-        <p></p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Draw down (4) (from Image)</b>
-        </p>
-        <p></p>
-      </td>
-      <td style="text-align:left">
-        <p>This shows the maximum possible loss of the trade according to the strategy
-          as well as the maximum percentage loss.</p>
-        <p>Definitions for Terms Used Across <a href="https://marketgodx.com/tradingview">Tradingview</a> Settings
-          and Reporting Strategies</p>
-        <p>It is important to be familiar with the terminology of the various settings
-          and customization to parameters the trader has direct ability to change
-          when back-testing. Many of these settings exponentially impact the result
-          of th</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Terms 	| Definitions 	|  	
+|-	|-	|-	|
+| Profit (1)(from image) 	| This shows the profit per trade and the percentage gain or loss of that trade. 	|  	
+| Cumulative Profit (2)(from Image) 	| This shows the total profits or losses of the strategy after closing a trade and the percentage gain or loss of the strategy over time. 	|  	
+| Run-up (3)(from Image) 	| This shows the maximum possible profit of the trade according to the strategy as well as the maximum percentage gain. 	|  	
+| Draw down (4) (from Image) 	| This shows the maximum possible loss of the trade according to the strategy as well as the maximum percentage loss. Definitions for Terms Used Across Tradingview Settings and Reporting Strategies It is important to be familiar with the terminology of the various settings and customization to parameters the trader has direct ability to change when back-testing. Many of these settings exponentially impact the result of th 	|  	
 
-### Slippage
+###  Slippage
 
 Slippage refers to the conflict between the expected price of a deal and the price at which the trade is executed. Slippage can occur at any time but is most prevalent during periods of volatility when market orders are used. It can also occur when a large order is executed
 but there isn't enough volume at the chosen price to maintain the current dictation /ask spread.
 
-### Pyramiding
+###  Pyramiding
 
 Pyramiding involves adding to profitable views to take reward of an instrument that is performing well. It allows for large profits to be made as the status grows. Best of all, it does not have to increase jeopardy if performed properly.
 
-### Recommended Candle Type For Back Tests
+###  Recommended Candle Type For Back Tests
 
 Normal Candlesticks \(OHLC\) are the only input we recommend using for back-testing any Tradingview strategy.
 
@@ -381,7 +333,7 @@ Non-standard chart types can provide traders with alternative ways of interpreti
 
 Generally, these are pretty straightforward terms that are returned by the Trading View engine but you need to be able to understand what is going on with the numbers in it to understand how your orders succeeded in your given Trading approach and strategy. Below is an included glossary to reference the different meetings associated with each term when running your strategy and how you can use them to evaluate the performance.
 
-## Measuring The Performance Of Any Strategy
+##  Measuring The Performance Of Any Strategy
 
 Understanding the definitions of these terms will ultimately add to your general understanding of your strategies performance performance
 
@@ -397,82 +349,21 @@ Many of these performance details are self explanatory, That said, one of the re
 
 ***
 
-## Strategy Testing Results
+##  Strategy Testing Results
 
-### The Overview Page
+###  The Overview Page
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center"><b># </b>
-      </th>
-      <th style="text-align:left"><b>Term </b>
-      </th>
-      <th style="text-align:left">Definition</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">1</td>
-      <td style="text-align:left"><b>Net Profit </b> 
-      </td>
-      <td style="text-align:left">The total percent gained in a strategy. You want this to be as high as
-        possible. Measured after fees</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">2</td>
-      <td style="text-align:left"><b>Number of Trades Entered </b>
-      </td>
-      <td style="text-align:left">Variable on your time frame traded and the frequency of trading. An adequate
-        sample size in statistical textbooks would say aim for 30 or more for the
-        period you are testing. Ultimately, the frequency is your preference on
-        its result.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">3</td>
-      <td style="text-align:left"><b>Percent Profitable </b>
-      </td>
-      <td style="text-align:left">Note, this is NOT how good or bad your strategy is. While ideally you
-        want 40%+ win rate, there are cases in which you can win 80% of your trades
-        but still lose money overall on the total return. The difference is in
-        the scale and size of the wins and losses. if the weight of the losses
-        is substantial enough, you can easily be in the red, despite winning the
-        majority of your trades.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">4</td>
-      <td style="text-align:left"><b>Profit Factor </b>
-      </td>
-      <td style="text-align:left">The profit factor is a simple ratio between the Gross Profit and Gross
-        Loss values.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">5</td>
-      <td style="text-align:left"><b>Max Draw Down</b>
-      </td>
-      <td style="text-align:left">A draw-down is the peak-to-trough decline during a specific recorded period
-        of an investment, fund or commodity security. a draw-down is usually quoted
-        as the percentage between the peak and the subsequent trough.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">6</td>
-      <td style="text-align:left"><b>Average Trade Size</b>
-      </td>
-      <td style="text-align:left">
-        <p>Averaged out value of each confirmed trade</p>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">7</td>
-      <td style="text-align:left"><b>Length of Bars</b>
-      </td>
-      <td style="text-align:left">Length of average trade for given period</td>
-    </tr>
-  </tbody>
-</table>
+| # 	| Term 	| Definition 	|
+|-	|-	|-	|
+| 1 	| Net Profit 	| The total percent gained in a strategy. You want this to be as high as possible. Measured after fees 	|
+| 2 	| Number of Trades Entered 	| Variable on your time frame traded and the frequency of trading. An adequate sample size in statistical textbooks would say aim for 30 or more for the period you are testing. Ultimately, the frequency is your preference on its result. 	|
+| 3 	| Percent Profitable 	| Note, this is NOT how good or bad your strategy is. While ideally you want 40%+ win rate, there are cases in which you can win 80% of your trades but still lose money overall on the total return. The difference is in the scale and size of the wins and losses. if the weight of the losses is substantial enough, you can easily be in the red, despite winning the majority of your trades. 	|
+| 4 	| Profit Factor 	| The profit factor is a simple ratio between the Gross Profit and Gross Loss values. 	|
+| 5 	| Max Draw Down 	| A draw-down is the peak-to-trough decline during a specific recorded period of an investment, fund or commodity security. a draw-down is usually quoted as the percentage between the peak and the subsequent trough. 	|
+| 6 	| Average Trade Size 	| Averaged out value of each confirmed trade 	|
+| 7 	| Length of Bars 	| Length of average trade for given period 	|
 
-### The Performance Summary
+###  The Performance Summary
 
 Once you have run your backtesting strategy you will see a screen similar to this above the screen showing the results from the strategy approach. Shown here is the Performance Summary found on tab \#2 of the report.
 
@@ -480,168 +371,26 @@ Once you have run your backtesting strategy you will see a screen similar to thi
 
 Terms found on the 'Performance Summary' Page (middle page) on the Strategy Test results
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Term</th>
-      <th style="text-align:left">Definition</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><b>Net Profit </b>
-      </td>
-      <td style="text-align:left">Profit after Fees</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Gross Profit</b>
-      </td>
-      <td style="text-align:left">Profit after fees</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Gross Loss</b>
-      </td>
-      <td style="text-align:left">Total sum of all losing trades</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Max Draw Down</b>
-      </td>
-      <td style="text-align:left">
-        <p>A drawdown is the peak-to-trough decline during a specific recorded period
-          of an investment, fund or commodity security. a drawdown is usually quoted
-          as the percentage between the peak and the subsequent trough.</p>
-        <p></p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Buy &amp; Hold Return</b>
-      </td>
-      <td style="text-align:left">Buy and hold return is a very useful benchmark to help you decide if all
-        your effort is really worth it. It measures what your PNL would be if you
-        just bought an asset and held it until the end of the test. If you cannot
-        beat the buy and hold return then deploying an active trading strategy
-        makes no sense. Of course, as with anything, there are some caveats to
-        this. The first is that if your strategy spends very little time in the
-        market, you might see the reduced risk of getting caught in a large downturn
-        as a benefit. Additionally, depending on the length of your test, you may
-        choose to ignore the buy and hold returns as it may not represent a clear
-        comparison of the performance through different market regimes/cycles.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Sharpe Ratio</b>
-      </td>
-      <td style="text-align:left">Sharpe Ratio refers to the proportional return you receive for holding
-        a level of risk over a specific period of time.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Profit Factor</b>
-      </td>
-      <td style="text-align:left">The profit factor is a simple ratio between the Gross Profit and Gross
-        Loss values.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Max Contracts Held</b>
-      </td>
-      <td style="text-align:left">Max positions open at one time self explanatory. Variable on pyramids
-        as well</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Open PL</b>
-      </td>
-      <td style="text-align:left">If you still have an open position at the end of your backtest, the current
-        PnL for that position will be listed here.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Commission Paid</b>
-      </td>
-      <td style="text-align:left">Self explanatory This is a sum of all the commissions paid.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Total Closed Trades</b>
-      </td>
-      <td style="text-align:left">How Many Trades have closed</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Total Open Trades</b>
-      </td>
-      <td style="text-align:left">If the trader is still in a position at time of report</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Number Winning Trades</b>
-      </td>
-      <td style="text-align:left">How many trades were won</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Number Losing Trades</b>
-      </td>
-      <td style="text-align:left">How many trades were not won</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Percent Profitable</b>
-      </td>
-      <td style="text-align:left">Of the trades entered, what percent of them were profitable?</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Avg Trade</b>
-      </td>
-      <td style="text-align:left">Average Trade value, regardless of result</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Avg Win Trade</b>
-      </td>
-      <td style="text-align:left">Average size of the trades won</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Avg Lost Trade</b>
-      </td>
-      <td style="text-align:left">Avg size of trades lost</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Ratio Avg Win / Avg Loss</b>
-      </td>
-      <td style="text-align:left">Provides the ratio of the gross loss / gross win value</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Largest Losing Trade</b>
-      </td>
-      <td style="text-align:left">Biggest lost in one trade / position</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Largest Win Trade</b>
-      </td>
-      <td style="text-align:left">Biggest gain in one trade / position</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Avg # Bars In Trades</b>
-      </td>
-      <td style="text-align:left">Average length of trade position</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Avg # Bars In Winning Trades</b>
-      </td>
-      <td style="text-align:left">Average length of winning trades</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Avg # Bars In Losing Trades</b>
-      </td>
-      <td style="text-align:left">
-        <p>Average length of losing trades</p>
-        <p></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| # 	| Term 	| Definition 	|  	
+|:-:	|-	|-	|-	|-	|-	|
+| 1 	| Net Profit 	| The total percent gained in a strategy. You want this to be as high as possible. Measured after fees 	|  	
+| 2 	| Number of Trades Entered 	| Variable on your time frame traded and the frequency of trading. An adequate sample size in statistical textbooks would say aim for 30 or more for the period you are testing. Ultimately, the frequency is your preference on its result. 	|  	
+| 3 	| Percent Profitable 	| Note, this is NOT how good or bad your strategy is. While ideally you want 40%+ win rate, there are cases in which you can win 80% of your trades but still lose money overall on the total return. The difference is in the scale and size of the wins and losses. if the weight of the losses is substantial enough, you can easily be in the red, despite winning the majority of your trades. 	|  
+| 4 	| Profit Factor 	| The profit factor is a simple ratio between the Gross Profit and Gross Loss values. 	|  	
+| 5 	| Max Draw Down 	| A draw-down is the peak-to-trough decline during a specific recorded period of an investment, fund or commodity security. a draw-down is usually quoted as the percentage between the peak and the subsequent trough. 	|  	
+| 6 	| Average Trade Size 	| Averaged out value of each confirmed trade <b></b> 	|  	|  	|  	|
+| 7 	| Length of Bars 	| Length of average trade for given period 	|  
 
 In conclusion, the final tips we have for trading are listed below. This guide will ideally be added to over time so remember to check back from time to time in the event any items have changed.
 
-## Best Practices for Strategy Testing on Tradingview
+##  Best Practices for Strategy Testing on Tradingview
 
 1. Use OHLC (normal) candles
 2.  Always make sure the 'recalculate on every tick' is UNCHECKED in the settings panel
 3. Set slippage to reflect the fees you experience per trade
 4. Remember that a high percentage of trade profitability DOES NOT ensure the strategy is solid. A strategy with 30% win-rate can yield higher return than one with 70%+. At the end of the day, the ONLY THING THAT MATTERS IS YOUR TAKE HOME PROFIT.
 
-## Further Reading into Strategies
+##  Further Reading into Strategies
 
 - [Further Reading on Max Drawdown](https://www.investopedia.com/terms/d/drawdown.asp) 
 - [Back Test Rookies Tradingview: Strategy Tester ? Performance Summary](https://backtest-rookies.com/2018/07/06/tradingview-strategy-tester-performance-summary/) 
@@ -651,7 +400,7 @@ In conclusion, the final tips we have for trading are listed below. This guide w
 - [PineCoder's Testing Engine](https://www.tradingview.com/script/dYqL95JB-Backtesting-Trading-Engine-PineCoders/) (highly recommended\)
 
 ***
-# Automation
+#  Automation
 
 **Plus Other External Tools**
 Automation for our tool has always been the goal. In 2020 we are launching an offering through [Trendspider](https://www.marketgodx.com/trendspider), which will enable users of Trendspider to do so on their platform.
@@ -665,7 +414,7 @@ At this time, to maximize your time spent on setting or changing alerts, automat
 - [TV-Hub Alerts, Backtesting, Automation & More](https://marketgodx.com/hub-automate-7c825)
 
 
-## Pinescript Resources
+##  Pinescript Resources
 
 Pinescript Is The Native Programming Language Of [Tradingview.Com](https://marketgodx.com/tradingview). Users Are Able To Build Their Own Indicators And Strategies Based On Technical Calculations And Plot Them All In Pine. We Will Continuously Add To The Scripts Listed Here So We Encourage You To Check Back From Time To Time. These Resources Are Also Available To Those Interested In Learning.
 
@@ -762,24 +511,24 @@ Regardless if you are a MarketGod customer/user, all traders on tradingview.com 
 - Market EKG
 - RSI Divergence
 
-### Do You Accept Crypto Payment
+###  Do You Accept Crypto Payment
 
 We accept all cryptocurrencies from all countries. By design, you may notice from time to time our cryptocurrency prices are significantly lower than the card payment.-
 [Pay with crypto](https://marketgodx.com/checkout/crypto)
 
-### Is There An Affiliate Program
+###  Is There An Affiliate Program
 
 Yes, Register following this link Affiliate Registration
 
-### How Are We Supposed To Use MarketGod
+###  How Are We Supposed To Use MarketGod
 
 [See Tutorials](marketgodx.com/tutorials)
 
-### How Do We Set Up MarketGod
+###  How Do We Set Up MarketGod
 
 *Please view our tutorials pages to see the process for adding MarketGod to your Charts*
 
-### I've Recently Purchased. My Indicator Access Is Still Locked
+###  I've Recently Purchased. My Indicator Access Is Still Locked
 
 Please be sure you have provided us with your username for Tradingview so we may add you to the tool.
 *If you have Please check you have refreshed your browser, and move on to the nextstep.*
@@ -793,11 +542,11 @@ In most cases we will add you within 15 minutes.
     - Weekends and holidays may be slower.
 **If you are not on the tool after 12 hours, please email us a reminder**
 
-### Is there a best time frame to use this tool
+###  Is there a best time frame to use this tool
 
 View General Uses Section
 
-### Does the Type of Candle Matter
+###  Does the Type of Candle Matter
 Not much. All script inputs are taken independent of your chart input.
 Just make sure you're not backtesting the strategy with Heikin Ashi. 
 
@@ -827,7 +576,7 @@ To solve this, we recommend changing the time frame, zooming in, or reducing the
 ### Can I use these indicators with a Free Tradingview account
 You can use all of our indicators with a free account, but keep in mind, with a free account you can only set up one live alert and only have up to three indicators on your chart active at one time. With a Pro account, you can set up multiple alerts and have up to 10 indicators on your chart at one time. I recommend a PRO+ account which will give you more than enough alerts and indicators on your chart. 
 
-### Do you have indicators coded for MT4
+###  Do you have indicators coded for MT4
 
 Our indicators only work on TradingView at the moment. There are some plans to code them for MT4 and MT5 but we don't have an ETA on that.
 
