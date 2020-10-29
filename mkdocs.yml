@@ -1,1 +1,5 @@
 site_name: MarketGod User Guides
+
+nav:
+    - Home: index.md
+    - About: about.md
