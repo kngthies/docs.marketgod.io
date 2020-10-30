@@ -1,3 +1,4 @@
-theme:
-    name: cerulean
-    nav_style: dark
+site_name: MarketGod for Tradingview
+nav:
+    - Home: index.md
+theme: readthedocs
