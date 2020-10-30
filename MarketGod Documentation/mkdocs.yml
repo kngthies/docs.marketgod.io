@@ -1,5 +1,1 @@
-site_name: MarketGod for Tradingview 
-nav:
-    - Home: index.md
-    - [Website Home](https://marketgod.io/)
 theme: readthedocs
