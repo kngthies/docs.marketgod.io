@@ -3,7 +3,7 @@ site_description: 'Complete Documentation of the MarketGod Buy and Sell Indicato
 site_author: 'Eric Thies'
 docs_dir: docs/
 repo_name: 'kngthies/marketgod-documentation'
-repo_url: 'https://github.com/kngthies/marketgod-documentation'
+repo_url: 'https://github.com/kngthies/MarketGod-Documentation'
 nav:
     - Home: index.md
     - FAQ: faq.md
