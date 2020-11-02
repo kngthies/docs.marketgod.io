@@ -1,12 +1,11 @@
-site_name: MarketGod for Tradingview 
+site_name: MarketGod for Tradingview Documentation
+site_description: 'MarketGod for Tradingview Complete Product Guide and User Maual for the Buy and Sell Indicator on Tradingview.com'
+site_author: 'Eric M Thies'
+docs_dir: docs/
+repo_name: 'kngthies/marketgod-documentation'
+repo_url: 'https://github.com/mhausenblas/mkdocs-template'
 nav:
     - Home: index.md
     - FAQ: faq.md
 theme:
-    name: readthedocs
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - rust
-
-        
+  name: 'material'
