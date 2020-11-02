@@ -1,4 +1,4 @@
-# The MarketGod Indicator 
+# The MarketGod Indicator for Tradingview 
 
 ## Buy and Sell Alerts for Trading All Financial Markets
 
