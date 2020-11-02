@@ -1,4 +1,4 @@
-![marketgodfortradgingview](/site/img/MarketGod%20Modern%20Logo%20180x180.png)
+![marketgodfortradgingview](https://github.com/kngthies/MarketGod-Documentation/blob/main/docs/img/MarketGod%20Modern%20Logo%20180x180.png?raw=true)
 
 # The MarketGod Indicator for Tradingview 
 

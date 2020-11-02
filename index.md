@@ -1,4 +1,4 @@
-![marketgodfortradgingview](img/MarketGod%20Modern%20Logo%20180x180.png)
+![MarketGod Trading Logo Crown](https://raw.githubusercontent.com/kngthies/MarketGod-Documentation/main/docs/img/favicon.ico)
 # The MarketGod Indicator for Tradingview 
 
 ## Buy and Sell Alerts for Trading All Financial Markets
@@ -129,9 +129,9 @@ This section will detail the most effective way we are aware of, to maximize the
 
 [GIF Tutorial](https://i.imgur.com/73xGnNs.gifv)
 
-![step1](img/removing%20na%20values%201.png)
-![step2](img/removing%20na%20values2.png)
-![step3](img/removing%20na%20values3.png)
+![Removing NA Values 1](https://github.com/kngthies/MarketGod-Documentation/blob/main/docs/img/removing%20na%20values%201.png?raw=true)
+![Removing NA values 2](https://github.com/kngthies/MarketGod-Documentation/blob/main/docs/img/removing%20na%20values2.png?raw=true))
+![Removing NA values 3](https://github.com/kngthies/MarketGod-Documentation/blob/main/docs/img/removing%20na%20values3.png?raw=true)
 
 1. From the main tradingview chart on your screen, navigate to chart settings by selecting the settings pinwheel in the bottom right corner of the chart, or alternatively you can left click on the chart and find the settings option at the bottom.
 2. From the chart settings panel, select the "Status Line" tab
