@@ -128,12 +128,6 @@ This section will detail the most effective way we are aware of, to maximize the
 
 [GIF Tutorial](https://i.imgur.com/73xGnNs.gifv)
 
-![NA Values Step 1 ](https://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/test-images/NA%20Values/removing%20na%20values%201.png?raw=true)
-
-![NA Values Step 2 ](https://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/test-images/NA%20Values/removing%20na%20values2.png?raw=true)
-
-![NA Values Step 3](https://github.com/ericthies/MarketGod-for-Tradingview-Full-Documentation/blob/test-images/NA%20Values/removing%20na%20values3.png?raw=true)
-
 1. From the main tradingview chart on your screen, navigate to chart settings by selecting the settings pinwheel in the bottom right corner of the chart, or alternatively you can left click on the chart and find the settings option at the bottom.
 2. From the chart settings panel, select the "Status Line" tab
 3. In the Status Line Panel, toggle the different settings available for indicator argurments, indicator vales and the additional options as well.
@@ -236,7 +230,7 @@ THIS MEANS TO ONLY USE MARKETGOD SIGNALS TO CONFIRM YOUR OWN PRECONCEIVED TRADIN
 
 ##  MarketGod for Tradingview Strategy Results and Performance
 
-###  Strategy Test Results of MarketGodx�
+###  Strategy Test Results of MarketGodx
 
 <table>
   <thead>
@@ -276,7 +270,7 @@ THIS MEANS TO ONLY USE MARKETGOD SIGNALS TO CONFIRM YOUR OWN PRECONCEIVED TRADIN
           <li><b>6% Draw-Down </b>
           </li>
         </ul>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <p></p>
       </td>
     </tr>
   </tbody>
@@ -403,12 +397,13 @@ In conclusion, the final tips we have for trading are listed below. This guide w
 #  Automation
 
 **Plus Other External Tools**
+
 Automation for our tool has always been the goal. In 2020 we are launching an offering through [Trendspider](https://www.marketgodx.com/trendspider), which will enable users of Trendspider to do so on their platform.
 In addition to the Trendspider partnership, we are hoping to ultimately automate the entire process with a bot we offer straight from our site, but at this time, the project is only in infancy and not ready to be shared with our user base. Users can follow this project once we announce it officially towards the end of 2020.
 At this time, to maximize your time spent on setting or changing alerts, automating your trading, or just adding more value to MarketGod, we recommend the following tools.
 
-- [Autoview \(Google Chrome Extension\)](https://marketgodx.com/autoview-chrome-817b5)
-- [Quick Alerts \(Google Chrome Extension\)](https://marketgodx.com/profitview-chrome-176c6)
+- [Autoview \(Google Chrome Extension)](https://marketgodx.com/autoview-chrome-817b5)
+- [Quick Alerts \(Google Chrome Extension)](https://marketgodx.com/profitview-chrome-176c6)
 - [Goat Alerts for Tradingview](https://marketgodx.com/goat-alerts-cc2c9)
 - [Profitview for Tradingview](https://marketgodx.com/profitview-chrome-45e7a)
 - [TV-Hub Alerts, Backtesting, Automation & More](https://marketgodx.com/hub-automate-7c825)
