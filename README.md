@@ -1,4 +1,5 @@
-![marketgodfortradgingview](docs/img/MarketGod%20Modern%20Logo%20180x180.png)
+![marketgodfortradgingview](/docs/img/MarketGod%20Modern%20Logo%20180x180.png)
+
 # The MarketGod Indicator for Tradingview 
 
 ## Buy and Sell Alerts for Trading All Financial Markets
