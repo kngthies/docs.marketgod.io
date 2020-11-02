@@ -1,4 +1,5 @@
-![MarketGod Trading Logo Crown](https://raw.githubusercontent.com/kngthies/MarketGod-Documentation/main/docs/img/favicon.ico)
+![MarketGod Trading Logo Crown](https://raw.githubusercontent.com/kngthies/MarketGod-Documentation/main/docs/img/MarketGod%20Modern%20Logo%20180x180.png)
+
 # The MarketGod Indicator for Tradingview 
 
 ## Buy and Sell Alerts for Trading All Financial Markets
