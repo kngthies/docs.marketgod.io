@@ -324,7 +324,7 @@ Pyramiding involves adding to profitable views to take reward of an instrument t
 
 ###  Recommended Candle Type For Back Tests
 
-Normal Candlesticks \(OHLC\) are the only input we recommend using for back-testing any Tradingview strategy.
+Normal Candlesticks (OHLC) are the only input we recommend using for back-testing any Tradingview strategy.
 
 Non-standard chart types can provide traders with alternative ways of interpreting price action, but they are not designed to test strategies or run automated traded systems where results depend on the ability to enter and exit trades at precise price levels at specific times, whether orders are issued manually or arithmetically. Ironically, the same characteristics that make non-standard chart types interesting from an analytical point of view also make them ill-suited to trade execution. Why? Because of the dislocation that a synthetic view of price action creates between its non-standard chart prices and real market prices at any given point in time. Switching from a non-standard chart price point into the market always entails a translation of time/price dimensions that results in uncertainty?and uncertainty concerning the level or the time at which orders are executed is detrimental to all strategies.
 
@@ -399,7 +399,7 @@ In conclusion, the final tips we have for trading are listed below. This guide w
 - [PineCoder's Testing Engine](https://www.tradingview.com/script/dYqL95JB-Backtesting-Trading-Engine-PineCoders/) (highly recommended\)
 
 ***
-#  Automation
+##  Automation
 
 **Plus Other External Tools**
 
@@ -587,4 +587,5 @@ What a lot of traders do is chart their trades with our indicators on TradingVie
 Our team chooses to be less involved. This is not a trading group, or premium paid group in which the admin needs to be involved. This is a product, and was purchased.. Questions that are asked will be answered if they are
 Unasked, or un-addressed elsewhere in the group
 New problems or issues that need a response.
+
 ***
