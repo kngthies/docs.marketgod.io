@@ -1,9 +1,9 @@
-site_name: MarketGod Docs
-site_description: 'MarketGod for Tradingview Complete Product Guide and User Maual for the Buy and Sell Indicator on Tradingview.com'
-site_author: 'E Thies '
+site_name: MarketGod Documentation
+site_description: 'Complete Documentation of the MarketGod Buy and Sell Indicator for Tradingview'
+site_author: 'Eric Thies'
 docs_dir: docs/
-repo_name: 'MarketGod-Documentation
-repo_url: 'https://github.com/kngthies/Marketgod-Documentation
+repo_name: 'kngthies/marketgod-documentation'
+repo_url: 'https://github.com/kngthies/marketgod-documentation'
 nav:
     - Home: index.md
     - FAQ: faq.md
