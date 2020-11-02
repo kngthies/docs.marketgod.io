@@ -1,10 +1,11 @@
-site_name: MarketGod for Tradingview 
+site_name: MarketGod Docs
+site_description: test'
+site_author: 'E Thies '
+docs_dir: docs/
+repo_name: 'MarketGod-Documentation
+repo_url: 'https://github.com/kngthies/Marketgod-Documentation
 nav:
     - Home: index.md
     - FAQ: faq.md
 theme:
-    name: mkdocs-gitbook
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - rust
+  name: 'material'
