@@ -3,7 +3,9 @@
 # Frequently Asked Questions
 
 *** 
+
 > *How to use this FAQ Section*
+
 **Use the search bar above! OR use the search function in your browser. "CMD +f" is your friend here! Simply search for what you're looking for to find the answer.**
 
 ### Why did my indicator not send a buy or a sell when the market price changed?
@@ -15,6 +17,7 @@ You can choose to make your own buys and sells without using the indicator. Just
 ### A MarketGod Alert was sent to my phone / email but nothing painted on the chart when I looked
 
 *This is an easy fix and is typically caused by one of two issues*
+
 1. Your alerts are outdated
    - When we publish a new update, we recommend you reset your alerts entirely. There are tools we recommend to make this an easier process, but it must be done. We ask this because Tradingview does not automatically update the alerts that are already set, when you add a newer version of the chart. So in essence, you're receiving a ghost alert from an older version of MarketGod
 
@@ -26,6 +29,7 @@ You can choose to make your own buys and sells without using the indicator. Just
 Repainting in the forex is a term that represents the trading platform indicator that repainting, meaning that indicator changes display on the chart as new price data (candles/bars) comes in. A repainting process shows that the indicator is displaying on the chart is highly accurate when it is not.
 
 **Repainting indicator**
+
 " The repainting indicator is one that goes on changing in its value as an indicator repositioning its line at the point where the current price bar is forming. Such indicators take the help of future data to bring forth the values and signals for entry. In this way, repainting indicators ensure their exit and entry signals in the past look highly accurate and has zero error. The repainting indicator looks accurate on the chart but in real trading, they are not. Naturally, all Tradingview Programmers writing in pine-script will encounter questions regarding the validity of a given script, and how it handles repainting.For those who may be unfamiliar, here is the direct definition of repainting from the Tradingview Pine-Script Manual
 Historical data does not include records of intra-bar movements of price; only open, high, low and close (OHLC). This leads to a script sometimes working differently on historical data and in real-time, where only the open price is known and where price will typically move many times before the real-time bar?s final high, low and close values are set after the real-time bar closes. Strategies using calc_on_every_tick=true. can trigger a repaint warning. Even strategy with parameter calc\_on\_every\_tick = false may also be prone to repainting, but to a lesser degree. Using security for requesting data from a resolution higher than the resolution of the chart?s main symbol can also trigger repainting." 
 
@@ -40,7 +44,9 @@ MarketGod Trading is an organization committed to better enabling retail traders
 ### Where Can We Buy Access to MarketGod for Tradingview?
 
 **MarketGod For Tradingview**
+
 [Card Payment](https://checkout.marketgod.io)
+
 [Crypto Payment](httos://marketgodx.com/checkout/crypto)
 
 ### Which Markets Can I Apply MarketGod On?
