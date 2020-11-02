@@ -1,5 +1,5 @@
 # The MarketGod Indicator 
-
+test
 ## Buy and Sell Alerts for Trading All Financial Markets
 
 ### Accessed by Traders via the Powerful [Tradingview Charting Platform](https://marketgodx.com/tradingview)
