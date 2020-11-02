@@ -3,8 +3,10 @@ nav:
     - Home: index.md
     - FAQ: faq.md
 theme:
-    name: mkdocs-gitbook
+    name: readthedocs
     highlightjs: true
     hljs_languages:
         - yaml
         - rust
+
+        
