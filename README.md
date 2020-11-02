@@ -129,7 +129,7 @@ This section will detail the most effective way we are aware of, to maximize the
 
 [GIF Tutorial](https://i.imgur.com/73xGnNs.gifv)
 
-![step1](/docs/img/removing%20na%20values%201.png)
+![step1](docs/img/removing%20na%20values%201.png)
 ![step2](/docs/img/removing%20na%20values2.png)
 ![step3](/docs/img/removing%20na%20values3.png)
 
