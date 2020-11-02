@@ -1,5 +1,5 @@
 site_name: MarketGod for Tradingview
 nav:
     - Home: index.md
-    -about: faq.md
+    - About: faq.md
 theme: readthedocs
