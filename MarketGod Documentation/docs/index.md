@@ -1,3 +1,4 @@
+![marketgodfortradgingview](img/MarketGod%20Modern%20Logo%20180x180.png)
 # The MarketGod Indicator for Tradingview 
 
 ## Buy and Sell Alerts for Trading All Financial Markets
@@ -128,11 +129,17 @@ This section will detail the most effective way we are aware of, to maximize the
 
 [GIF Tutorial](https://i.imgur.com/73xGnNs.gifv)
 
+![step1](img/removing%20na%20values%201.png)
+![step2](img/removing%20na%20values2.png)
+![step3](img/removing%20na%20values3.png)
+
 1. From the main tradingview chart on your screen, navigate to chart settings by selecting the settings pinwheel in the bottom right corner of the chart, or alternatively you can left click on the chart and find the settings option at the bottom.
 2. From the chart settings panel, select the "Status Line" tab
 3. In the Status Line Panel, toggle the different settings available for indicator argurments, indicator vales and the additional options as well.
 
 ##  Customization and Personalized Appearances
+
+[GIF Tutorial](https://marketgodx.com/free-visual-add-on)
 
 MarketGod Users can adjust the overall appearance of the indicator as they use it. For a full list on why can be customized on tradingview.com in entirety, please see the references to tradingview.com, and note this applies to every indicator in strategy that users can add from the public library
 This section is related to the visual appearance of MarketGod. If you are looking for adjustments and details on how to use the V7 and MarketGodx noise filter.
@@ -146,8 +153,6 @@ This section is related to the visual appearance of MarketGod. If you are lookin
 - MarketGod Alert Locations
 - Tradingview Scales
 - Tradingview Alert Text
-
-[GIF Tutorial](https://marketgodx.com/free-visual-add-on)
 
 > All aspects of your chart can be customized on the tradingview platform. Do this, by going to the "chart settings" tab/settings pin wheel on the bottom right corner of screen.
 > For additional customization's to your chart, add 'MarketGod Visuals' from the public library
