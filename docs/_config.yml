@@ -1,5 +1,1 @@
-site_name: MarketGod for Tradingview
-nav:
-    - Home: index.md
-    - About: faq.md
-theme: readthedocs
+theme: jekyll-theme-tactile
