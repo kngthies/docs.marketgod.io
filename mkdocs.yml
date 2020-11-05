@@ -1,3 +1,4 @@
+site_name: MGx 
 nav:
     - Home: index.md
     - FAQ: faq.md
