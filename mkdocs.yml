@@ -1,7 +1,0 @@
-site_name: MarketGod for Tradingview Documentation
-nav:
-    - Home: index.md
-    - About: about.md
-    - FAQ: faq.md
-theme:
-  name: 'material'
