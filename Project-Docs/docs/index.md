@@ -1,5 +1,3 @@
-![MarketGod Trading Logo Crown](file://Project-Docs/docs/img/MarketGod-Modern-Logo180x180.png)
-
 # The MarketGod Indicator for Tradingview 
 
 ## Buy and Sell Alerts for Trading All Financial Markets
