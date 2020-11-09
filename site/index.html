@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="None">
+        
+        <link rel="canonical" href="http://documentation.marketgod.io/">
+        <link rel="shortcut icon" href="img/favicon.ico">
+        <title>MarketGod Trading Documentation</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link href="css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+
+        <script src="js/jquery-1.10.2.min.js" defer></script>
+        <script src="js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body class="homepage">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href=".">MarketGod Trading Documentation</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem active">
+                                <a href="." class="nav-link">Home</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="about/" class="nav-link">About</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="recents/" class="nav-link">Recents</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="tutorials/" class="nav-link">Tutorials</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="faq/" class="nav-link">FAQ</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" class="nav-link disabled">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="about/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://github.com/kngthies/MarketGod-Documentation/edit/master/docs/index.md" class="nav-link">Edit on MarketGod-Documentation</a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#the-marketgod-indicator-for-tradingview" class="nav-link">The MarketGod Indicator for Tradingview</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#buy-and-sell-alerts-for-trading-all-financial-markets" class="nav-link">Buy and Sell Alerts for Trading All Financial Markets</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#introduction" class="nav-link">Introduction</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#recommended-first-steps" class="nav-link">Recommended First Steps</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#user-requirements" class="nav-link">User Requirements</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#tutorial-start-using-marketgod" class="nav-link">Tutorial: Start using MarketGod</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#included-with-marketgod-purchase" class="nav-link">Included with MarketGod Purchase</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#new-user-registration" class="nav-link">New User Registration</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#how-to-find-your-tradingview-username" class="nav-link">How to Find Your Tradingview Username</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#marketgod-indicator-access-confirmation" class="nav-link">MarketGod Indicator Access Confirmation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#using-the-marketgod-indicator" class="nav-link">Using the MarketGod Indicator</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#tutorial-setting-alerts-in-tradingview" class="nav-link">Tutorial: Setting Alerts in Tradingview</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#tutorial-removing-na-values" class="nav-link">Tutorial: Removing NA Values</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#customization-and-personalized-appearances" class="nav-link">Customization and Personalized Appearances</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#general-suggested-uses" class="nav-link">General Suggested Uses</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#what-markets-to-trade-using-marketgod" class="nav-link">What Markets to Trade Using MarketGod</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#how-to-proceed-when-a-buy-or-sell-signal-appears" class="nav-link">How to Proceed When a Buy or Sell Signal Appears</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#tutorial-how-to-trade-with-marketgod" class="nav-link">Tutorial: How to Trade With MarketGod</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#more-suggested-uses" class="nav-link">More Suggested Uses</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#additional-customization" class="nav-link">Additional Customization</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#marketgod-for-tradingview-strategy-results-and-performance" class="nav-link">MarketGod for Tradingview Strategy Results and Performance</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#studies-vs-strategies-on-tradingview" class="nav-link">Studies Vs Strategies On Tradingview</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#strategy-settings-and-associated-terms" class="nav-link">Strategy Settings and Associated Terms</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#measuring-the-performance-of-any-strategy" class="nav-link">Measuring The Performance Of Any Strategy</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#strategy-testing-results" class="nav-link">Strategy Testing Results</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#strategy-specific-terms" class="nav-link">Strategy Specific Terms</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#best-practices-for-strategy-testing-on-tradingview" class="nav-link">Best Practices for Strategy Testing on Tradingview</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#further-reading-into-strategies" class="nav-link">Further Reading into Strategies</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#automation" class="nav-link">Automation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#pinescript-resources" class="nav-link">Pinescript Resources</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="the-marketgod-indicator-for-tradingview">The MarketGod Indicator for Tradingview</h1>
+<h2 id="buy-and-sell-alerts-for-trading-all-financial-markets">Buy and Sell Alerts for Trading All Financial Markets</h2>
+<h3 id="accessed-by-traders-via-the-powerful-tradingview-charting-platform">Accessed by Traders via the Powerful <a href="https://marketgodx.com/tradingview">Tradingview Charting Platform</a></h3>
+<p><a href="https://github.com/xkingthies/MarketGod-for-Tradingview-Full-Documentation/blob/main/Brand%20Assets/800x800%20Transparent%20Crown%20Icon.png?raw=true">MarketGod Buy and Sell Alerts for Tradingview</a></p>
+<hr />
+<h2 id="introduction">Introduction</h2>
+<h3 id="hello-and-welcome-to-marketgod-trading">Hello and welcome to MarketGod Trading</h3>
+<p>Regardless of your background in trading/finance, and regardless of where you are from, thank you for taking the time to review these documents, and educate yourself on what has really become the core of my livlihood over the course of several years.
+Whether you are new to the MarketGod Indicator or a seasoned veteran, we appreciate your presence and hope to maintain your trading success, and ideally add value to your trades prior to making them. If you've just purchased access to MarketGod for Tradingview, we will get you added shortly. This guide aims to Establish a framework / fundamental understanding of what our tools do, so they can utilize and apply them best. In addition,If you're just getting started and don't know how to add MarketGod in the Tradingview Public Library, we recommend you start in the <a href="https://docs.marketgod.io/guides/guide/tutorials#how-to-find-marketgod">tutorials</a> section for assistance.</p>
+<h2 id="recommended-first-steps">Recommended First Steps</h2>
+<p>Once you have purchased access to MarketGod, Follow us on our social platforms. This is how we keep users up to date on the latest updates and changes.</p>
+<p>Secondly, add the following Email Address to your Contacts + Whitelisted Domains Eric Thies, admin@marketgod.io. This is your main point of contact for administrative and support related issues.</p>
+<blockquote>
+<p>Watch and review our <a href="https://docs.marketgod.io/guides/guide/tutorials#how-to-find-marketgod">tutorials</a>, and other resources provided on this site. It is ever changing and we update it frequently.</p>
+</blockquote>
+<hr />
+<h2 id="user-requirements">User Requirements</h2>
+<p>Before we can add you to MarketGod for Tradingview on Tradingview.com, we require the following from all our users.</p>
+<h2 id="tutorial-start-using-marketgod">Tutorial: Start using MarketGod</h2>
+<p>First, you need to <a href="https://tradingview.com/">Create an account on Tradingview.com</a></p>
+<blockquote>
+<p>To maximize your experience with MarketGod, we recommend purchasing their Pro or Premium subscription.</p>
+</blockquote>
+<p>Once the account has been made, you will need to purchase our tool, which is available here.</p>
+<p><a href="https://checkout.marketgod.io/">Purchase MarketGod for Tradingview**</a></p>
+<h2 id="included-with-marketgod-purchase">Included with MarketGod Purchase</h2>
+<ul>
+<li><a href="https://www.tradingview.com/script/incLctTa-MarketGod-for-Tradingview-study/">MarketGod for Tradingview [study]</a></li>
+<li><a href="https://www.tradingview.com/script/incLctTa-MarketGod-for-Tradingview-strategy">MarketGod for Tradingview [strategy]</a></li>
+</ul>
+<p>If hesitant to purchase, we are happy to answer any questions or address any concerns <a href="mailto:admin@marketgod.io">via email</a>.</p>
+<hr />
+<h2 id="new-user-registration">New User Registration</h2>
+<h3 id="once-purchased-users-are-directed-to-a-registration-process-that-is-required-for-all-users-to-complete">Once purchased, users are directed to a registration process that is required for all users to complete</h3>
+<p>Upon completion of payment, users complete a registration process to provide us the required details we need to add you to Tradingview. This registration process will start in one of these two methods
+Most commonly, users are redirected to our registration straight from the payment completion
+In the event you are not redirected to our registration, we also email the link to the registration form, which is delivered after successful payments are received.
+When providing the information requested on the form, please be sure to double check your Tradingview Username. The management system we have available to us from Tradingview is case-sensitive, making it that much more important you verify your username prior to submitting the form</p>
+<h2 id="how-to-find-your-tradingview-username">How to Find Your Tradingview Username</h2>
+<ol>
+<li><strong>Go to <a href="https://www.tradingview.com/">https://www.tradingview.com/</a></strong></li>
+<li><strong>Once you have made it to Tradingview, log into your account, if you haven't already</strong></li>
+<li><strong>Go to <a href="https://www.tradingview.com/u/">https://www.tradingview.com/u/</a></strong></li>
+<li><strong>The user name that appears on the profile in front of you is your username</strong></li>
+</ol>
+<h2 id="marketgod-indicator-access-confirmation">MarketGod Indicator Access Confirmation</h2>
+<p>Your access to MarketGod will be confirmed via notification from Tradingview.com. Below, we walk through each step that needs to be taken to find the notification</p>
+<ol>
+<li>
+<p>After submitting the user registration form, please allow up to 6 hours to be on the tool. We have an automated system and expect your permissions to be granted within 5-10 minutes of submitting, but we ask for the longer period of time in the event the system has an error or there is a reason for the change.</p>
+</li>
+<li>
+<p>You will know that you have been granted access to the MarketGod indicator by two methods: Tradingview will alert you in your sidebar account notifications. You will also see a new section of "Invite-Only" scripts appear in your public indicator library, once you refresh and update the cached info on your browser.</p>
+</li>
+</ol>
+<blockquote>
+<p><strong>PLEASE NOTE THAT THE RED LOCKS NEXT TO THE INDICATOR ARE PRESENT REGARDLESS IF PERMISSION IS GRANTED OR NOT.</strong></p>
+</blockquote>
+<p>They change to green after you have successfully ADDED the tool to your chart.</p>
+<p><strong>If you find yourself waiting multiple hours without gaining access to the indicator, <a href="mailto:admin@marketgod.io">please email our team</a> with a copy of your receipt and we will plan accordingly from there!</strong></p>
+<h3 id="how-to-find-the-marketgod-indicator-and-add-to-your-chart-on-tradingview">How To Find the MarketGod Indicator and Add to Your Chart on Tradingview</h3>
+<p><a href="https://imgur.com/gallery/71UMCWT">GIF Tutorial</a></p>
+<ol>
+<li><strong><a href="https://tradingview.com">Log into to your account on Tradingview</a></strong></li>
+<li><strong>From the homepage, click on ?Chart? in the top navigation bar.Select ?Indicators? on the top-center-middle panel</strong>:</li>
+<li><strong>In the indicator library, you will notice your tradingview account will now have a "invite only" section on the left-hand side. The indicator and strategy will both be available to you, and will look as the photo below</strong></li>
+</ol>
+<blockquote>
+<p>Be Sure to choose the MarketGod for Tradingview [study] <strong>published by user MarketGodx.</strong>
+TVMARKETGOD is a previous account we needed to reset due to constraints on automated user adds we wanted to sidestep.</p>
+</blockquote>
+<p>By now, you should have successfully added the MarketGod Indicator to your charts on Tradingview.com.</p>
+<p>For additional assistance before continuing, <a href="mailto:admin@marketgod.io">please email us here</a></p>
+<hr />
+<h2 id="using-the-marketgod-indicator">Using the MarketGod Indicator</h2>
+<h3 id="recommendations-for-using-the-marketgod-indicator-and-how-to-maximize-your-study-strategy-effectively">Recommendations for using the MarketGod Indicator and how to maximize your study &amp; strategy effectively</h3>
+<p>This section will detail the most effective way we are aware of, to maximize the efficiency and succcess of the MarketGod algorithm.</p>
+<h4 id="covered-in-this-section">Covered in this section</h4>
+<ol>
+<li>
+<p><strong>Tutorials</strong></p>
+<ul>
+<li>Setting Alerts</li>
+<li>Removing NA Labeling from Left Corner of screen</li>
+<li>More</li>
+</ul>
+</li>
+<li>
+<p><strong>Customizing MarketGod Visuals</strong></p>
+</li>
+<li><strong>Understanding how the alerts are sent</strong></li>
+</ol>
+<h2 id="tutorial-setting-alerts-in-tradingview">Tutorial: Setting Alerts in Tradingview</h2>
+<p><a href="https://i.imgur.com/V03AD6H.gifv">GIF Tutorial</a></p>
+<ol>
+<li>From your <a href="https://marketgodx.com/tradingview">Tradingview chart</a>, navigate to the market or ticker and timeframes you'd like to set an alert for</li>
+<li>From the main chart, click on the alerts icon in the right panel and then click the plus + to open the ?Set Alert? menu</li>
+<li>Set the alerts for Buy and Sell, by selecting the MarketGod Indicator as the source of the alert (first drop down menu in the panel).</li>
+<li>When the source is set to MarketGod, choose 'Buy Alert' or 'Sell Alert' from the menu afterward.</li>
+<li>The frequency of the alerts should be set to your preference. We recommend the 'Once per bar close' option that sends an alert via SMS for email, without expiry, whenever the conditions are met.</li>
+<li>This option is only available through <a href="https://marketgodx.com/tradingview">tradingview's premium plans</a></li>
+</ol>
+<hr />
+<h2 id="tutorial-removing-na-values">Tutorial: Removing NA Values</h2>
+<p><a href="https://i.imgur.com/73xGnNs.gifv">GIF Tutorial</a></p>
+<p><img alt="Removing NA Values 1" src="https://github.com/kngthies/MarketGod-Documentation/blob/main/docs/img/removing%20na%20values%201.png?raw=true" />
+<img alt="Removing NA values 2" src="https://github.com/kngthies/MarketGod-Documentation/blob/main/docs/img/removing%20na%20values2.png?raw=true" />)
+<img alt="Removing NA values 3" src="https://github.com/kngthies/MarketGod-Documentation/blob/main/docs/img/removing%20na%20values3.png?raw=true" /></p>
+<ol>
+<li>From the main tradingview chart on your screen, navigate to chart settings by selecting the settings pinwheel in the bottom right corner of the chart, or alternatively you can left click on the chart and find the settings option at the bottom.</li>
+<li>From the chart settings panel, select the "Status Line" tab</li>
+<li>In the Status Line Panel, toggle the different settings available for indicator argurments, indicator vales and the additional options as well.</li>
+</ol>
+<h2 id="customization-and-personalized-appearances">Customization and Personalized Appearances</h2>
+<p><a href="https://marketgodx.com/free-visual-add-on">GIF Tutorial</a></p>
+<p>MarketGod Users can adjust the overall appearance of the indicator as they use it. For a full list on why can be customized on tradingview.com in entirety, please see the references to tradingview.com, and note this applies to every indicator in strategy that users can add from the public library
+This section is related to the visual appearance of MarketGod. If you are looking for adjustments and details on how to use the V7 and MarketGodx noise filter.</p>
+<h3 id="available-customizations">Available Customizations</h3>
+<ul>
+<li>MarketGod Signal Colors</li>
+<li>MarketGod Signal Type</li>
+<li>MarketGod Alert Text</li>
+<li>MarketGod Painted Alert Style</li>
+<li>MarketGod Alert Locations</li>
+<li>Tradingview Scales</li>
+<li>Tradingview Alert Text</li>
+</ul>
+<blockquote>
+<p>All aspects of your chart can be customized on the tradingview platform. Do this, by going to the "chart settings" tab/settings pin wheel on the bottom right corner of screen.
+For additional customization's to your chart, add 'MarketGod Visuals' from the public library</p>
+</blockquote>
+<hr />
+<h2 id="general-suggested-uses">General Suggested Uses</h2>
+<h3 id="which-timeframes-to-use-marketgod">Which Timeframes to use MarketGod</h3>
+<p>MarketGod is designed to work across -every- timeframe on tradingview.com - that said, MarketGod is the most effective on the 1h, 4h, 1D timeframes. Other frames include (but are not limited to) the 3D, 1W, 2W &amp; 1M timeframes depending on the traders preference</p>
+<h2 id="what-markets-to-trade-using-marketgod">What Markets to Trade Using MarketGod</h2>
+<p>All Markets avialable on Tradingview.com</p>
+<ul>
+<li>Know that I built the tools primarily on Bitcoin vs. USD, because that's what I personally trade. That said, it DOES work on everything from equities, commodities, precious metals, indexes, funds, etc.</li>
+</ul>
+<h2 id="how-to-proceed-when-a-buy-or-sell-signal-appears">How to Proceed When a Buy or Sell Signal Appears</h2>
+<p>When following an alert you've received from one of our indicators, please ensure to verify its validity by making note of the environment the alert came from.</p>
+<ul>
+<li>Is the market volatile historically?</li>
+<li>How long ago did the alert fire?</li>
+<li>Are we near the higher range of a trading chart and in new territory?</li>
+<li>What time-frame did the alert fire on?</li>
+</ul>
+<p>These are questions you need to be asking yourself prior to making an entry or exit into a position.</p>
+<p>MarketGod Trading has issued multiple versions of the MarketGod Indicator. They are mostly similar in the process required once an alert is painted on the chart.</p>
+<blockquote>
+<p>"Simply buying and selling whenever the 5-minute MarketGod alert fires will likely put you in the negative side of things"
+Eric Thies, MarketGod Author</p>
+</blockquote>
+<p>First off, know that these guidelines for steps taken after receiving an alert will absolutely differ person to person, and that we've designed this to be an add-on to confirm your already established trading process. Simply buying and selling whenever the 5-minute MarketGod alert fires will likely put you in the negative side of things for two reasons.</p>
+<ol>
+<li>Increased exposure to market volatility over shorter period of time</li>
+<li>Increased fees on the market you are trading. 1% over 100,000 trades add up quickly.</li>
+</ol>
+<h3 id="that-said-following-these-outlined-steps-will-likely-end-closer-to-positive-with-profits">That said, following these outlined steps will likely end closer to positive with profits</h3>
+<p>Choose your preferred Market to trade. I use Bitcoin-USD but any you prefer is okay.
+Once MarketGod is added to your charts, which we discussed above, we also recommend you add whichever indicators are preferred in your normal trading routine.</p>
+<p>For us, that includes</p>
+<ul>
+<li><a href="https://www.tradingview.com/script/CaMohiJM-RSI-Divergence-Pine-v4/">RSI Divergence</a></li>
+<li><a href="https://www.tradingview.com/script/cTQfwzek-KDJ-Indicator-Pine-v4-KingThies/">KDJ Indicator</a></li>
+<li><a href="https://www.tradingview.com/scripts/bollingerbands/">Bollinger Bands</a></li>
+<li><a href="https://www.tradingview.com/scripts/keltnerchannels/">Keltner Channels</a></li>
+<li><a href="https://marketgodx.com/free-visual-add-on">MarketGod Visuals</a></li>
+</ul>
+<h2 id="tutorial-how-to-trade-with-marketgod">Tutorial: How to Trade With MarketGod</h2>
+<ol>
+<li>Assuming you're ready to go now, go ahead and set the alerts you need for MarketGod.</li>
+<li>Wait for the Alerts to fire</li>
+<li>Evaluate the market when the alert is received</li>
+<li>Make trade at own risk</li>
+</ol>
+<h2 id="more-suggested-uses">More Suggested Uses</h2>
+<ul>
+<li>MarketGod will inevitably produce false positives. We've taken steps to reduce this but we highly suggest you add this as a component of your strategy, not an end all be all</li>
+<li>That said, please do not feel the need to fire a trade based solely on a marketgod signal, or to every signal it fires.</li>
+<li>MarketGod users should backtest their strategy using OHLC candles for best results</li>
+<li>Heikin Ashi candles were recommended in the past, and we have eliminated the need for them, meaning that traditional <a href="https://www.tradingview.com/scripts/candlestick/">candlestick</a> inputs will yield the highest results.</li>
+<li>MarketGod will always give stronger alerts on higher TF's.</li>
+<li>Example #1 - If the 1-Day has fired a given signal and the 30 min or similar fire the opposite signal, know that the overall trend is still likely downward. Same concept applies to all timeframes on this tool.</li>
+<li>Example #2  - if the one-month get a signal over the one week it is absolutely worth listening to</li>
+<li>Reset all alerts every release that we put out. Each upgrade will require new sets of alerts to the tool and you were continue to receive the wrong words in future versions if you still have the words from the past</li>
+</ul>
+<h2 id="additional-customization">Additional Customization</h2>
+<p>Customize the indicator by adjusting the colors in the style pane. Additionally, users can change the plots into labels with the price of close added to them, or a few other label text options, listed in the 'inputs' panel, below the filter adjustments. Users can also opt to turn the strategy orders as well, as this version will have them printed.</p>
+<p>Do not follow every alert. MarketGod is not designed as independent trading system. It's primary function is to alert you when a trade becomes potentially available and then you are to use your own strategy to make the decision</p>
+<p>THIS MEANS TO ONLY USE MARKETGOD SIGNALS TO CONFIRM YOUR OWN PRECONCEIVED TRADING STRATEGY.</p>
+<hr />
+<h2 id="marketgod-for-tradingview-strategy-results-and-performance">MarketGod for Tradingview Strategy Results and Performance</h2>
+<h3 id="strategy-test-results-of-marketgodx">Strategy Test Results of MarketGodx</h3>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Parameters</th>
+      <th style="text-align:left">Results</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p><em>The parameters for this are as follows</em>
+        </p>
+        <ul>
+          <li><b>$10,000 capital </b>
+          </li>
+          <li><b>Trading 10% equity each trade</b>
+          </li>
+          <li><b>Measured since start of 2019</b>
+          </li>
+          <li><b>Stop loss and TP on at 25% take profit, 5% SL </b>
+          </li>
+          <li><b>.1% Commission and 1 bar slippage </b>
+          </li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li><b>36% profit over this period of time </b>
+          </li>
+          <li><b>381 Trades made </b>
+          </li>
+          <li><b>39% win rate </b>
+          </li>
+          <li><b>1.26 trade profitability </b>
+          </li>
+          <li><b>6% Draw-Down </b>
+          </li>
+        </ul>
+        <p></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+<p>The only thing that matters when it comes to financial trading is the money you bring back to your bank account. Winning % of trades is irrelevant.</p>
+</blockquote>
+<p>The purpose of this strategy is not to achieve a high win percentage. The only thing that matters at the end of the day, is how much take home profit is brought in. A strategy with 70% win percent and 1% profit is useless compared to a 30% win rate and 10% profit take home. Read the strategy guide below to know best practices for interpreting these results.</p>
+<hr />
+<h2 id="studies-vs-strategies-on-tradingview">Studies Vs Strategies On Tradingview</h2>
+<p><a href="https://www.youtube.com/watch?v=eAaaiRVEcyw&amp;t=4s">Youtube Tutorial</a></p>
+<p><a href="https://marketgodx.com/tradingview">Tradingview</a> differentiates strategies from studies in multiple ways that will be discussed below. If unfamiliar with the topic, know that Studies and Indicators are the same thing. Any Oscillator, Chart overlay, indicator, etc is a STUDY in technicality. Studies differ directly in that strategies are reactive to market environment and variables change given the situation, while studies will be more of a 'rinse, repeat' kind of set-up in which we can generate alerts from in which we use to apply a strategy to.</p>
+<p>In essence, indicators are used to READ a market, while strategies are used to PLAY the market.</p>
+<p>Indicators can not place orders or cannot be modified to fit a given environment. They will always give the same result at the same time with the same</p>
+<p><a href="https://marketgodx.com/tradingview">Tradingview's</a> native programming language Pine script, enables traders to develop algorithms they can apply as both indicators and strategies. Some users are unaware that indicators are completely unique from strategies and do not imply a given result from a reading or measurement taken. In their own functionality the call for an indicator over a strategy actually leads to almost a different process entirely for defining the price movement and what the intended result is. For one, indicators can establish alerts to be set that the trader will follow and receive on their mobile device when triggered. Strategies however, are limited in this ability and cannot fire alerts.</p>
+<p>The challenge is that of the <a href="https://marketgodx.com/tradingview">Tradingview</a> users testing their strategies do not know how to interpret the results provided by Tradingview, which we aim to accomplish by showing specific examples and methods of testing, a standard of practice for our users and all Tradingview users to follow, along with various resources for reading further into this subject.</p>
+<p>Some of the examples below are directly from the <a href="https://marketgodx.com/tradingview">Tradingview</a> blog, and resources provided by the PineCoders Community (Tradingview endorsed group &amp; pine script MOD?s). These items will be cited formally and linked.</p>
+<p>The strategy report makes interpreting the success of a strategy relatively easy with its first look as we see above. The initial reporting metrics appear and logically make sense as well. But once we pivot over to the list of trades, <a href="https://www.tradingview.com/blog/en/changes-in-the-backtesting-report-16416/">Tradingview has identified 4 components that are specified in this blog post</a></p>
+<h2 id="strategy-settings-and-associated-terms">Strategy Settings and Associated Terms</h2>
+<p>| Terms     | Definitions   | <br />
+|-  |-  |-  |
+| Profit (1)(from image)    | This shows the profit per trade and the percentage gain or loss of that trade.    | <br />
+| Cumulative Profit (2)(from Image)     | This shows the total profits or losses of the strategy after closing a trade and the percentage gain or loss of the strategy over time.   | <br />
+| Run-up (3)(from Image)    | This shows the maximum possible profit of the trade according to the strategy as well as the maximum percentage gain.     | <br />
+| Draw down (4) (from Image)    | This shows the maximum possible loss of the trade according to the strategy as well as the maximum percentage loss. Definitions for Terms Used Across Tradingview Settings and Reporting Strategies It is important to be familiar with the terminology of the various settings and customization to parameters the trader has direct ability to change when back-testing. Many of these settings exponentially impact the result of th   |   </p>
+<h3 id="slippage">Slippage</h3>
+<p>Slippage refers to the conflict between the expected price of a deal and the price at which the trade is executed. Slippage can occur at any time but is most prevalent during periods of volatility when market orders are used. It can also occur when a large order is executed
+but there isn't enough volume at the chosen price to maintain the current dictation /ask spread.</p>
+<h3 id="pyramiding">Pyramiding</h3>
+<p>Pyramiding involves adding to profitable views to take reward of an instrument that is performing well. It allows for large profits to be made as the status grows. Best of all, it does not have to increase jeopardy if performed properly.</p>
+<h3 id="recommended-candle-type-for-back-tests">Recommended Candle Type For Back Tests</h3>
+<p>Normal Candlesticks (OHLC) are the only input we recommend using for back-testing any Tradingview strategy.</p>
+<p>Non-standard chart types can provide traders with alternative ways of interpreting price action, but they are not designed to test strategies or run automated traded systems where results depend on the ability to enter and exit trades at precise price levels at specific times, whether orders are issued manually or arithmetically. Ironically, the same characteristics that make non-standard chart types interesting from an analytical point of view also make them ill-suited to trade execution. Why? Because of the dislocation that a synthetic view of price action creates between its non-standard chart prices and real market prices at any given point in time. Switching from a non-standard chart price point into the market always entails a translation of time/price dimensions that results in uncertainty?and uncertainty concerning the level or the time at which orders are executed is detrimental to all strategies.</p>
+<p><a href="https://marketgodx.com/why-backtest-with-candles">Read why on this published post from PineCoders</a></p>
+<p>Generally, these are pretty straightforward terms that are returned by the Trading View engine but you need to be able to understand what is going on with the numbers in it to understand how your orders succeeded in your given Trading approach and strategy. Below is an included glossary to reference the different meetings associated with each term when running your strategy and how you can use them to evaluate the performance.</p>
+<h2 id="measuring-the-performance-of-any-strategy">Measuring The Performance Of Any Strategy</h2>
+<p>Understanding the definitions of these terms will ultimately add to your general understanding of your strategies performance performance</p>
+<p>As you may know by now, back-testing a strategy is a key component in solidifying the base to your overall strategy, which makes the interpreting of its performance report all that more important.</p>
+<p>The Strategy Performance Reports appear on the bottom of your <a href="https://marketgodx.com/tradingview">Tradingview</a> charts in the management panel, with the tab location next to the Pine Script Terminal. The report itself contains</p>
+<ol>
+<li>The Strategy Performance Overview</li>
+<li>An in-depth Strategy Performance Summary</li>
+<li>A List of Trades that were entered and traded</li>
+</ol>
+<p>Many of these performance details are self explanatory, That said, one of the reasons we wanted to write this guide. was because there are a few generalizations and inaccurate assumptions made about the meaning of a few performance details to clear up. These are items to consider when interpreting them on a case by case basis. Below, we touch on the terms referenced and how they could be accurately interpreted on a general level.</p>
+<hr />
+<h2 id="strategy-testing-results">Strategy Testing Results</h2>
+<h3 id="the-overview-page">The Overview Page</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Net Profit</td>
+<td>The total percent gained in a strategy. You want this to be as high as possible. Measured after fees</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Number of Trades Entered</td>
+<td>Variable on your time frame traded and the frequency of trading. An adequate sample size in statistical textbooks would say aim for 30 or more for the period you are testing. Ultimately, the frequency is your preference on its result.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Percent Profitable</td>
+<td>Note, this is NOT how good or bad your strategy is. While ideally you want 40%+ win rate, there are cases in which you can win 80% of your trades but still lose money overall on the total return. The difference is in the scale and size of the wins and losses. if the weight of the losses is substantial enough, you can easily be in the red, despite winning the majority of your trades.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Profit Factor</td>
+<td>The profit factor is a simple ratio between the Gross Profit and Gross Loss values.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Max Draw Down</td>
+<td>A draw-down is the peak-to-trough decline during a specific recorded period of an investment, fund or commodity security. a draw-down is usually quoted as the percentage between the peak and the subsequent trough.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Average Trade Size</td>
+<td>Averaged out value of each confirmed trade</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Length of Bars</td>
+<td>Length of average trade for given period</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-performance-summary">The Performance Summary</h3>
+<p>Once you have run your backtesting strategy you will see a screen similar to this above the screen showing the results from the strategy approach. Shown here is the Performance Summary found on tab #2 of the report.</p>
+<h2 id="strategy-specific-terms">Strategy Specific Terms</h2>
+<p>Terms found on the 'Performance Summary' Page (middle page) on the Strategy Test results</p>
+<p>In conclusion, the final tips we have for trading are listed below. This guide will ideally be added to over time so remember to check back from time to time in the event any items have changed.</p>
+<h2 id="best-practices-for-strategy-testing-on-tradingview">Best Practices for Strategy Testing on Tradingview</h2>
+<ol>
+<li>Use OHLC (normal) candles</li>
+<li>Always make sure the 'recalculate on every tick' is UNCHECKED in the settings panel</li>
+<li>Set slippage to reflect the fees you experience per trade</li>
+<li>Remember that a high percentage of trade profitability DOES NOT ensure the strategy is solid. A strategy with 30% win-rate can yield higher return than one with 70%+. At the end of the day, the ONLY THING THAT MATTERS IS YOUR TAKE HOME PROFIT.</li>
+</ol>
+<h2 id="further-reading-into-strategies">Further Reading into Strategies</h2>
+<ul>
+<li><a href="https://www.investopedia.com/terms/d/drawdown.asp">Further Reading on Max Drawdown</a> </li>
+<li><a href="https://backtest-rookies.com/2018/07/06/tradingview-strategy-tester-performance-summary/">Back Test Rookies Tradingview: Strategy Tester ? Performance Summary</a> </li>
+<li><a href="https://marketgodx.com/repainting-when-not-using-security">Pinecoders Script Post Why use OHLC with back testing?</a></li>
+<li><a href="https://www.tradingview.com/pine-script-reference/">Tradingview Pine Reference Manual</a></li>
+<li><a href="https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html">Pine Version 4 Manual</a></li>
+<li><a href="https://www.tradingview.com/script/dYqL95JB-Backtesting-Trading-Engine-PineCoders/">PineCoder's Testing Engine</a> (highly recommended)</li>
+</ul>
+<hr />
+<h2 id="automation">Automation</h2>
+<p><strong>Plus Other External Tools</strong></p>
+<p>Automation for our tool has always been the goal. In 2020 we are launching an offering through <a href="https://www.marketgodx.com/trendspider">Trendspider</a>, which will enable users of Trendspider to do so on their platform.
+In addition to the Trendspider partnership, we are hoping to ultimately automate the entire process with a bot we offer straight from our site, but at this time, the project is only in infancy and not ready to be shared with our user base. Users can follow this project once we announce it officially towards the end of 2020.
+At this time, to maximize your time spent on setting or changing alerts, automating your trading, or just adding more value to MarketGod, we recommend the following tools.</p>
+<ul>
+<li><a href="https://marketgodx.com/autoview-chrome-817b5">Autoview (Google Chrome Extension)</a></li>
+<li><a href="https://marketgodx.com/profitview-chrome-176c6">Quick Alerts (Google Chrome Extension)</a></li>
+<li><a href="https://marketgodx.com/goat-alerts-cc2c9">Goat Alerts for Tradingview</a></li>
+<li><a href="https://marketgodx.com/profitview-chrome-45e7a">Profitview for Tradingview</a></li>
+<li><a href="https://marketgodx.com/hub-automate-7c825">TV-Hub Alerts, Backtesting, Automation &amp; More</a></li>
+</ul>
+<h2 id="pinescript-resources">Pinescript Resources</h2>
+<p>Pinescript Is The Native Programming Language Of <a href="https://marketgodx.com/tradingview">Tradingview.Com</a>. Users Are Able To Build Their Own Indicators And Strategies Based On Technical Calculations And Plot Them All In Pine. We Will Continuously Add To The Scripts Listed Here So We Encourage You To Check Back From Time To Time. These Resources Are Also Available To Those Interested In Learning.</p>
+<ol>
+<li><a href="https://user42.tuxfamily.org/chart/manual/Concept-Index.html#Concept-Index">Trading Concepts And Calculations Database</a></li>
+<li><a href="http://www.pinecoders.com/">Tools And Ideas For All Pine Coders</a></li>
+<li><a href="https://www.tradingview.com/pine-wizards/">Pine Wizards</a></li>
+<li><a href="http://www.pinecoders.com/faq_and_code/">Our Pine Faq &amp; Code</a></li>
+<li><a href="https://t.me/PineCodersSquawkBox">Get Pine News And Tips On Telegram</a></li>
+<li><a href="https://www.tradingview.com/pine-script-reference/v4/">Pinescript Reference (Via Tradingview)</a></li>
+<li><a href="https://stackoverflow.com/questions/tagged/pine-script">Pinescript Stack Overflow</a></li>
+<li><a href="https://www.tradingview.com/u/PineCoders/#published-scripts">Pinecoders Tradingview Account</a></li>
+<li><a href="https://www.pinecoders.com/faq_and_code/">Pinescript Faq Via Pinecoders Website</a></li>
+<li><a href="https://kodify.net/tradingview-programming-articles/">Pinescript Related Tutorials Via Kodify</a></li>
+<li><a href="https://backtest-rookies.com/category/tradingview/">Pinescript Related Tutorials Via Backtest Rookie</a></li>
+</ol>
+<hr />
+<hr /></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = ".",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="js/base.js" defer></script>
+        <script src="search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
+
+<!--
+MkDocs version : 1.1.2
+Build Date UTC : 2020-11-09 08:51:57.258484+00:00
+-->

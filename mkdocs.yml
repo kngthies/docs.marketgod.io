@@ -1,4 +1,7 @@
 site_name: MarketGod Trading Documentation
+site_url: http://documentation.marketgod.io   
+repo_url: https://github.com/kngthies/MarketGod-Documentation
+repo_name: MarketGod-Documentation
 nav:
     - Home: index.md
     - About: about.md
