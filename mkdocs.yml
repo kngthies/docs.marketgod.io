@@ -9,6 +9,6 @@ nav:
     - Tutorials: tutorials.md
     - FAQ: faq.md
 theme: 
-    name:  gitbook
+    name:  mkdocs
     nav_style: dark
-##theme: gitbook
+    side_bar: true
