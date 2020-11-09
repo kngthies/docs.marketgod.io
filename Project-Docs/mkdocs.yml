@@ -5,4 +5,7 @@ nav:
     - Recents: recents.md
     - Tutorials: tutorials.md
     - FAQ: faq.md
-theme: gitbook
+theme: 
+    name:  mkdocs
+    nav_style: dark
+##theme: gitbook
