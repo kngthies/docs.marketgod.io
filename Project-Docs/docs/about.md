@@ -1,9 +1,11 @@
-![MarketGod Trading Logo Crown](https://raw.githubusercontent.com/kngthies/MarketGod-Documentation/main/docs/img/MarketGod%20Modern%20Logo%20180x180.png)
+![MarketGod Trading Logo Crown](.../img/Logo180.png)
 
+# About Us
 
-# About
+## Hello 
 
-## Hello, we are MarketGod Trading and we want to trade the way people trade. 
+We are MarketGod Trading and we want to trade the way people trade. To do this, we work with one end in mind: make a fully autonomous algorithm that will perform on any market applied, and to do so on a scale that has never before been seen.
+Seem like a bold task?  Some would agree that it's too bold to say the least. Howveer as our track record imples, we are well on our way to doing so, and the nearly versions of the MarketGod indicator we have published for our users should attest to itself the adaptation our tool has seen over its now 3 year life span. For this reason, we work around the clock with our small team to make the tool as reliable and profitable as possible, so when the time comes to make our tools into a full platform, we can do so in condifence. 
 
 ### We implement trading systems based on classic technical indicators, which send alerts to our users when triggered.
 
