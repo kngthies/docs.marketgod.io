@@ -1,5 +1,3 @@
-![MarketGod Trading Logo Crown](https://raw.githubusercontent.com/kngthies/MarketGod-Documentation/main/Project-Docs/docs/img/MarketGod%20Modern%20Logo%20180x180.png)
-
 # The MarketGod Indicator for Tradingview 
 
 ## Buy and Sell Alerts for Trading All Financial Markets
@@ -373,15 +371,6 @@ Once you have run your backtesting strategy you will see a screen similar to thi
 
 Terms found on the 'Performance Summary' Page (middle page) on the Strategy Test results
 
-| # 	| Term 	| Definition 	|  	
-|:-:	|-	|-	|-	|-	|-	|
-| 1 	| Net Profit 	| The total percent gained in a strategy. You want this to be as high as possible. Measured after fees 	|  	
-| 2 	| Number of Trades Entered 	| Variable on your time frame traded and the frequency of trading. An adequate sample size in statistical textbooks would say aim for 30 or more for the period you are testing. Ultimately, the frequency is your preference on its result. 	|  	
-| 3 	| Percent Profitable 	| Note, this is NOT how good or bad your strategy is. While ideally you want 40%+ win rate, there are cases in which you can win 80% of your trades but still lose money overall on the total return. The difference is in the scale and size of the wins and losses. if the weight of the losses is substantial enough, you can easily be in the red, despite winning the majority of your trades. 	|  
-| 4 	| Profit Factor 	| The profit factor is a simple ratio between the Gross Profit and Gross Loss values. 	|  	
-| 5 	| Max Draw Down 	| A draw-down is the peak-to-trough decline during a specific recorded period of an investment, fund or commodity security. a draw-down is usually quoted as the percentage between the peak and the subsequent trough. 	|  	
-| 6 	| Average Trade Size 	| Averaged out value of each confirmed trade <b></b> 	|  	|  	|  	|
-| 7 	| Length of Bars 	| Length of average trade for given period 	|  
 
 In conclusion, the final tips we have for trading are listed below. This guide will ideally be added to over time so remember to check back from time to time in the event any items have changed.
 
