@@ -1,0 +1,14 @@
+site_name: MarketGod Trading Documentation
+site_url: http://documentation.marketgod.io   
+repo_url: https://github.com/kngthies/MarketGod-Documentation
+repo_name: MarketGod-Documentation
+nav:
+    - Home: index.md
+    - About: about.md
+    - Recents: recents.md
+    - Tutorials: tutorials.md
+    - FAQ: faq.md
+theme: 
+    name:  mkdocs
+    nav_style: dark
+    side_bar: true
