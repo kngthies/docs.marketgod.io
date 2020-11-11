@@ -8,4 +8,3 @@ nav:
     - FAQ: faq.md
 theme: 
     name:  readthedocs
-    nav_style: dark
