@@ -12,8 +12,9 @@
 
 ###  Hello and welcome to MarketGod Trading
 
-Regardless of your background in trading/finance, and regardless of where you are from, thank you for taking the time to review these documents, and educate yourself on what has really become the core of my livlihood over the course of several years.
-Whether you are new to the MarketGod Indicator or a seasoned veteran, we appreciate your presence and hope to maintain your trading success, and ideally add value to your trades prior to making them. If you've just purchased access to MarketGod for Tradingview, we will get you added shortly. This guide aims to Establish a framework / fundamental understanding of what our tools do, so they can utilize and apply them best. In addition,If you're just getting started and don't know how to add MarketGod in the Tradingview Public Library, we recommend you start in the [tutorials](https://docs.marketgod.io/guides/guide/tutorials#how-to-find-marketgod) section for assistance.
+Regardless of your background in trading/finance, your culture, or where you call home, thank you for taking the time to review these documents, and educate yourself on what has really become the core of my livlihood over the course of several years.
+If you are new to the MarketGod Indicator or even a seasoned veteran, we appreciate your presence and hope to maintain and even add to your trading success with the use of our buy and sell indicator, and ideally continue to add more value to your trades prior to making them. 
+If you've just purchased access to MarketGod for Tradingview, we will get you added shortly, and if we don't, [email our team here](mailto:admin@marketgod.io).  This guide aims to Establish a framework / fundamental understanding of what our tools do, so they can utilize and apply them best. In addition,If you're just getting started and don't know how to add MarketGod in the Tradingview Public Library, we recommend you start in the [tutorials](/tutorials) section for assistance.
 
 ##  Recommended First Steps
 
@@ -21,7 +22,7 @@ Once you have purchased access to MarketGod, Follow us on our social platforms. 
 
 Secondly, add the following Email Address to your Contacts + Whitelisted Domains Eric Thies, admin@marketgod.io. This is your main point of contact for administrative and support related issues.
 
-> Watch and review our [tutorials](https://docs.marketgod.io/guides/guide/tutorials#how-to-find-marketgod), and other resources provided on this site. It is ever changing and we update it frequently.
+> Watch and review our [tutorials](/tutorials), and other resources provided on this site. It is ever changing and we update it frequently.
 
 ***
 
@@ -80,7 +81,7 @@ They change to green after you have successfully ADDED the tool to your chart.
 
 ###  How To Find the MarketGod Indicator and Add to Your Chart on Tradingview
 
-[GIF Tutorial](https://imgur.com/gallery/71UMCWT)
+![GIF Tutorial](/docs/img/Tutorials/addmg.gif)
 
 1. **[Log into to your account on Tradingview](https://tradingview.com)**
 2. **From the homepage, click on ?Chart? in the top navigation bar.Select ?Indicators? on the top-center-middle panel**:
@@ -127,19 +128,22 @@ This section will detail the most effective way we are aware of, to maximize the
 
 ##  Tutorial: Removing NA Values
 
-[GIF Tutorial](https://i.imgur.com/73xGnNs.gifv)
+![GIF Tutorial](/docs/img/Tutorials/NA5.gif)
 
-![Removing NA Values 1](https://github.com/kngthies/MarketGod-Documentation/blob/main/docs/img/removing%20na%20values%201.png?raw=true)
-![Removing NA values 2](https://github.com/kngthies/MarketGod-Documentation/blob/main/docs/img/removing%20na%20values2.png?raw=true))
-![Removing NA values 3](https://github.com/kngthies/MarketGod-Documentation/blob/main/docs/img/removing%20na%20values3.png?raw=true)
+![Removing NA Values 1](/site/img/Tutorials/NA1.png)
 
-1. From the main tradingview chart on your screen, navigate to chart settings by selecting the settings pinwheel in the bottom right corner of the chart, or alternatively you can left click on the chart and find the settings option at the bottom.
-2. From the chart settings panel, select the "Status Line" tab
-3. In the Status Line Panel, toggle the different settings available for indicator argurments, indicator vales and the additional options as well.
+> 1. From the main tradingview chart on your screen, navigate to chart settings by selecting the settings pinwheel in the bottom right corner of the chart, or alternatively you can left click on the chart and find the settings option at the bottom.
+
+![Removing NA values 2](/site/img/Tutorials/NA2.png)
+> 2. From the chart settings panel, select the "Status Line" tab
+
+![Removing NA values 3](/site/img/Tutorials/NA3.png)
+
+> 3. In the Status Line Panel, toggle the different settings available for indicator argurments, indicator vales and the additional options as well.
 
 ##  Customization and Personalized Appearances
 
-[GIF Tutorial](https://marketgodx.com/free-visual-add-on)
+![GIF Tutorial](/)
 
 MarketGod Users can adjust the overall appearance of the indicator as they use it. For a full list on why can be customized on tradingview.com in entirety, please see the references to tradingview.com, and note this applies to every indicator in strategy that users can add from the public library
 This section is related to the visual appearance of MarketGod. If you are looking for adjustments and details on how to use the V7 and MarketGodx noise filter.
