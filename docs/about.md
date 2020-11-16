@@ -1,11 +1,14 @@
-![MarketGod Trading Logo Crown](https://raw.githubusercontent.com/kngthies/MarketGod-Documentation/main/Project-Docs/docs/img/MarketGod%20Modern%20Logo%20180x180.png)
+# About Us
 
+***
 
-# About
+![MarketGod Trading Logo Crown](/../img/Logo180.png)
 
 ## Hello, we are MarketGod Trading and we want to trade the way people trade. 
 
 ### We implement trading systems based on classic technical indicators, which send alerts to our users when triggered.
+
+***
 
 ## About MarketGod Trading
 

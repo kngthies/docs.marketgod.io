@@ -1,6 +1,8 @@
-![MarketGod Trading Logo Crown](https://raw.githubusercontent.com/kngthies/MarketGod-Documentation/main/docs/img/MarketGod%20Modern%20Logo%20180x180.png)
-
 # Frequently Asked Questions
+
+***
+
+![MarketGod Trading Logo Crown](../img/Logo180.png)
 
 *How to use this FAQ Section*
 **Use the search bar above! OR use the search function in your browser. "CMD +f" is your friend here! Simply search for what you're looking for to find the answer.**
