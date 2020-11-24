@@ -151,6 +151,24 @@ source of the alert (first drop down menu in the panel).
    **This option is only available through [tradingview's premium plans](https://marketgodx.com/tradingview)**
 
 ***
+## Setting Alerts on Mobile 
+
+### How to receive alert notifications via phone
+
+To get notified about an alert on your phone, please follow the instructions:
+
+* Download the latest TradingView app from AppStore or Google Play
+* Log into your TradingView account on the app
+* Allow the TradingView app to send push notifications.
+* For Android devices: open TradingView app settings and enable push notifications.
+* For iOS devices:
+    * Go to Settings -> Notifications
+    * Select TradingView app
+        turn on Allow Notifications.
+* Tick the Notify on App box when creating an alert
+  
+You can also connect your TradingView account directly to your phone number. You need to create a special email address that forwards messages to your phone via your network (to save on charges) to receive email-to-SMS alerts. The list of free email providers that can do this can be viewed here. You might want to check other lists if you haven't been able to find your country in this one.
+***
 
 ## Tutorial: Removing NA Values
 
