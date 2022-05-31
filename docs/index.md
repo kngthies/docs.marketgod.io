@@ -151,7 +151,9 @@ source of the alert (first drop down menu in the panel).
    **This option is only available through [tradingview's premium plans](https://marketgodx.com/tradingview)**
 
 ***
-## Setting Alerts on Mobile 
+
+## Setting Alerts on Mobile
+
 
 ### How to receive alert notifications via phone
 
@@ -477,7 +479,7 @@ Pinescript Is The Native Programming Language Of [Tradingview.Com](https://marke
 3. [Pine Wizards](https://www.tradingview.com/pine-wizards/)
 4. [Our Pine Faq & Code](http://www.pinecoders.com/faq_and_code/)
 5. [Get Pine News And Tips On Telegram](https://t.me/PineCodersSquawkBox)
-6. [Pinescript Reference \(Via Tradingview\)](https://www.tradingview.com/pine-script-reference/v4/)
+6. [Pinescript Reference (Via Tradingview\)](https://www.tradingview.com/pine-script-reference/v4/)
 7. [Pinescript Stack Overflow](https://stackoverflow.com/questions/tagged/pine-script)
 8. [Pinecoders Tradingview Account](https://www.tradingview.com/u/PineCoders/#published-scripts)
 9. [Pinescript Faq Via Pinecoders Website](https://www.pinecoders.com/faq_and_code/)

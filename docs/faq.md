@@ -153,8 +153,20 @@ Our indicators only work on TradingView at the moment. There are some plans to c
 
 What a lot of traders do is chart their trades with our indicators on TradingView and then place their trades on MT4. This is a very popular and preferred method since TradingView is known to have the best charting platform for Crypto, Stocks, and Forex and MT4 is well known for it's fast and easy trade execution platform.
 
-### Why is the Admin in the Discord Group Non-Responsive
+###  Is there a Discord group for MarketGod users 
 
-Our team chooses to be less involved. This is not a trading group, or premium paid group in which the admin needs to be involved. This is a product, and was purchased.. Questions that are asked will be answered if they are
-Unasked, or un-addressed elsewhere in the group
-New problems or issues that need a response.
+Not at this time. 
+
+### Where did the Discord group go? 
+
+This has been an on/off community that Eric does not have the bandwidth to effectively manage at this time. Users are not buying a community, they bought a tool. 
+
+### Why do I not have Indicator Access 
+
+Chances are the user has submitted an incorrect username. Tradingview has a CASE SENSITIVE system and the smallest of diference in your username to the username submitted to our system could cause error. 
+
+[Resubmit a form here](https://marketgodx.com/registration/resubision)
+
+### I changed my username on Tradingview and have lost access 
+
+[Resubmit a form here](https://marketgodx.com/registration/resubision)
