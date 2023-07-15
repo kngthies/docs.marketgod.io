@@ -1,0 +1,11 @@
+site_name: MarketGod Trading Documentation
+nav:
+    - Home: index.md
+    - About: about.md
+    - Recents: recents.md
+    - Tutorials: tutorials.md
+    - FAQ: faq.md
+theme: 
+    name:  mkdocs
+    nav_style: dark
+##theme: gitbook
